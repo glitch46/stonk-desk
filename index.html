@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#131511">
+  <meta name="description" content="The STONK desk. Revenue, buybacks, burns, holders, and market data for StonkFun's Solana token. Public sources. Actual numbers.">
+  <title>STONK — The Shareholder Desk</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to dashboard</a>
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="STONK desk home"><img src="favicon.svg" alt="" width="27" height="27"> STONK<span>/ DESK</span></a>
+    <nav aria-label="Dashboard sections"><a href="#business">The business</a><a href="#holders">The holders</a><a href="#markets">The tape</a></nav>
+    <a class="outlink" href="https://www.stonkfun.xyz/" target="_blank" rel="noopener noreferrer">StonkFun <span aria-hidden="true">↗</span></a>
+  </header>
+
+  <main id="main" class="container">
+    <section class="hero" aria-labelledby="heroTitle">
+      <div class="hero-copy">
+        <div class="eyebrow"><span class="square"></span> SOLANA EQUITIES* <span class="edition">EST. 2026 / INDEPENDENT ANALYTICS</span></div>
+        <h1 id="heroTitle">STONK<span class="title-period">.</span></h1>
+        <div class="hero-bottom"><p>The shareholder desk.<br><span>Memes on the outside. Numbers underneath.</span></p><span class="stamp">DUE<br>DILIGENCE<br><b>DEPT.</b></span></div>
+        <div class="contract"><span class="contract-label">CA</span><code id="mint">6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx</code><button id="copyMint" type="button" aria-label="Copy STONK mint address">COPY <span aria-hidden="true">⧉</span></button></div>
+      </div>
+      <figure class="hero-art"><img src="assets/desk-trader.svg" alt="An unreasonably confident trader in sunglasses, with a green market arrow" width="320" height="320"><figcaption>*a token. the suit is decorative.</figcaption></figure>
+    </section>
+
+    <div class="statusbar"><div><span id="statusDot" class="status-dot"></span><span id="dataStatus" role="status" aria-live="polite">Opening the books…</span></div><div class="status-actions"><span id="nextRefresh">30 MIN DATA CYCLE</span><button type="button" id="refreshButton" aria-label="Refresh latest published data">REFRESH <span aria-hidden="true">↻</span></button></div></div>
+    <div class="notice" id="notice" role="status" hidden></div>
+    <noscript><p class="notice">Enable JavaScript to load the dashboard. The underlying data is available in <a href="data/snapshot.json">snapshot.json</a>.</p></noscript>
+
+    <section class="market-kpis" aria-label="Market summary">
+      <div class="market-kpi"><span class="label">STONK / USD</span><div class="big-value" id="price">—</div><div class="metric-foot"><span id="priceChange">—</span><span>24H · PRIMARY POOL</span></div></div>
+      <div class="market-kpi"><span class="label">SUPPLY-ADJUSTED VALUE</span><div class="big-value" id="marketCap">—</div><div class="metric-foot">PRICE × CURRENT TOTAL SUPPLY</div></div>
+      <div class="market-kpi"><span class="label">DEX VOLUME / 24H</span><div class="big-value" id="volume">—</div><div class="metric-foot" id="poolCount">RETURNED STONK POOLS</div></div>
+      <div class="market-kpi"><span class="label">DEX LIQUIDITY</span><div class="big-value" id="liquidity">—</div><div class="metric-foot">SUM OF RETURNED POOL RESERVES</div></div>
+    </section>
+
+    <div class="overview-grid">
+      <section class="panel price-panel" aria-labelledby="priceTitle">
+        <div class="panel-heading"><div><span class="label">01 / THE CHART</span><h2 id="priceTitle">Price action</h2></div><div class="segmented" id="priceRange" role="group" aria-label="Price chart range"><button data-days="7" aria-pressed="false">7D</button><button data-days="30" aria-pressed="true">30D</button><button data-days="90" aria-pressed="false">90D</button></div></div>
+        <div class="chart-summary"><span id="chartPrice">—</span><span class="chart-range-change" id="chartChange">Daily closes · USD</span></div>
+        <div id="priceChart" class="chart price-chart" role="img" aria-label="STONK daily closing price chart"><p class="empty">Waiting for price history.</p></div>
+        <div class="panel-foot"><span id="priceChartSource">GeckoTerminal · deepest STONK pool</span><a id="chartLink" href="https://dexscreener.com/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx" target="_blank" rel="noopener noreferrer">FULL CHART ↗</a></div>
+      </section>
+
+      <aside class="panel supply-panel" aria-labelledby="supplyTitle">
+        <div class="panel-heading"><div><span class="label">THE SHARE COUNT</span><h2 id="supplyTitle">Supply, getting smaller.</h2></div><span class="small-arrow" aria-hidden="true">↘</span></div>
+        <div class="supply-amount" id="supply">—</div><p class="small muted">STONK remaining · current total supply</p>
+        <div class="supply-track" role="img" id="supplyTrack" aria-label="Supply remaining versus burned"><span id="remainingBar"></span><span id="burnedBar"></span></div>
+        <div class="supply-key"><span><i class="key remaining"></i>Remaining <b id="remainingPct">—</b></span><span><i class="key burned"></i>Burned <b id="burnedPct">—</b></span></div>
+        <dl class="fact-list"><div><dt>Platform-reported burns</dt><dd id="burnedTokens">—</dd></div><div><dt>Supply + platform burns</dt><dd id="supplyBasis">—</dd></div><div><dt>Mint authority</dt><dd id="mintAuthority">—</dd></div><div><dt>Freeze authority</dt><dd id="freezeAuthority">—</dd></div></dl>
+        <p class="margin-note">No stock certificates were harmed.<br>Some tokens were.</p>
+      </aside>
+    </div>
+
+    <section id="business" class="section" aria-labelledby="businessTitle">
+      <div class="section-heading"><div><span class="label">02 / FOLLOW THE MONEY</span><h2 id="businessTitle">Okay, but does it make money?</h2></div><a href="https://www.stonkfun.xyz/revenue" target="_blank" rel="noopener noreferrer">OFFICIAL LEDGER ↗</a></div>
+      <div class="business-intro"><p><strong>StonkFun is a token launchpad.</strong> Coins can launch against SOL, tokenized stocks, and other quote assets. The platform says approximately <strong id="buybackShare">60%</strong> of its revenue goes toward buying and burning STONK.</p><div class="flow"><span>TRADING FEES</span><b>→</b><span>BUY STONK</span><b>→</b><span class="green">BURN</span></div></div>
+      <div class="fundamental-kpis">
+        <div><span class="label">LIFETIME PLATFORM REVENUE</span><strong id="revenueTotal">—</strong><span class="small muted">Including STONK-quoted launch fees</span></div>
+        <div><span class="label">LIFETIME OPEN-MARKET BUYBACKS</span><strong id="buybackTotal">—</strong><span class="small muted">USD spent · not current token value</span></div>
+        <div><span class="label">REVENUE / LAST 7 COMPLETE DAYS</span><strong id="revenue7d">—</strong><span class="small muted" id="revenueTrend">—</span></div>
+        <div><span class="label">BUYBACKS / LAST 7 COMPLETE DAYS</span><strong id="buyback7d">—</strong><span class="small muted" id="burn7d">—</span></div>
+      </div>
+      <div class="two-col business-charts">
+        <section class="panel" aria-labelledby="revenueTitle"><div class="panel-heading"><div><span class="label">CASH IN / TOKENS OUT</span><h3 id="revenueTitle">Daily revenue & buybacks</h3></div><div class="segmented" id="revenueRange" role="group" aria-label="Revenue chart range"><button data-days="7" aria-pressed="false">7D</button><button data-days="30" aria-pressed="true">30D</button><button data-days="90" aria-pressed="false">90D</button></div></div><div class="chart-legend"><span><i class="key cream"></i>Revenue</span><span><i class="key remaining"></i>Buybacks</span></div><div id="revenueChart" class="chart business-chart" role="img" aria-label="Daily platform revenue and buybacks in USD"><p class="empty">Waiting for the revenue ledger.</p></div><p class="chart-note">UTC days · provider's latest day is partial · USD at event time</p></section>
+        <section class="panel" aria-labelledby="burnTitle"><div class="panel-heading"><div><span class="label">THE SHRINKING FLOAT</span><h3 id="burnTitle">Daily STONK destroyed</h3></div><span class="mini-tag">ACTUAL TOKENS</span></div><div class="chart-legend"><span><i class="key remaining"></i>Platform-reported burns</span></div><div id="burnChart" class="chart business-chart" role="img" aria-label="Daily STONK token burns"><p class="empty">Waiting for burn history.</p></div><p class="chart-note">Buyback burns + direct burns · same range as revenue</p></section>
+      </div>
+      <details class="ledger panel"><summary><span>Open the receipts</span><span class="small muted">RECENT BUYBACKS & BURNS <b aria-hidden="true">+</b></span></summary><div class="two-col ledger-grid"><div><h3>Recent open-market buybacks</h3><div class="table-scroll"><table><thead><tr><th>Time (UTC)</th><th>Spent</th><th>STONK bought</th><th>Receipt</th></tr></thead><tbody id="buybackRows"></tbody></table></div></div><div><h3>Recent burns</h3><div class="table-scroll"><table><thead><tr><th>Time (UTC)</th><th>Source</th><th>STONK burned</th><th>Receipt</th></tr></thead><tbody id="burnRows"></tbody></table></div></div></div><p class="chart-note">The platform ledger supplies these transaction links. A buyback and its later burn are separate events, not two purchases.</p></details>
+    </section>
+
+    <section id="holders" class="section" aria-labelledby="holdersTitle">
+      <div class="section-heading"><div><span class="label">03 / WHO'S HOLDING THE BAG</span><h2 id="holdersTitle">The holder book.</h2></div><a href="https://solscan.io/token/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx#holders" target="_blank" rel="noopener noreferrer">EXPLORE HOLDERS ↗</a></div>
+      <div class="holder-layout">
+        <aside class="panel holder-summary"><span class="label">SOURCE-REPORTED HOLDERS</span><div class="holder-count" id="holderCount">—</div><p class="small muted">RugCheck count · not a count of unique people</p><div class="concentration"><span class="label">TOP 10 NON-POOL OWNERS IN SAMPLE</span><strong id="topTenShare">—</strong><span class="small muted">of the holder report's current supply</span></div><div class="distribution-bar" id="distributionBar" role="img" aria-label="Sampled holder supply distribution"></div><ul class="distribution-key" id="distributionKey"></ul><p class="small muted" id="holderCoverage">Largest token-account sample, grouped by owner. Matched liquidity pools are separated.</p></aside>
+        <section class="panel holder-table-panel" aria-labelledby="whaleTitle"><div class="panel-heading"><div><span class="label">THE BIG POSITIONS</span><h3 id="whaleTitle">Largest observed owners</h3></div><label class="checkbox"><input type="checkbox" id="showPools"> Include pools</label></div><div class="table-scroll"><table class="holder-table"><thead><tr><th># / Owner</th><th>STONK</th><th>Supply %</th><th>~24h balance Δ</th></tr></thead><tbody id="holderRows"><tr><td colspan="4" class="empty">Waiting for holder data.</td></tr></tbody></table></div><div class="table-controls"><span class="small muted" id="holderShown">—</span><button class="text-button" id="moreHolders" type="button">SHOW ALL ↓</button></div><p class="chart-note" id="holderBaseline">Balance-change tracking starts with the first saved observation.</p></section>
+      </div>
+    </section>
+
+    <section id="markets" class="section" aria-labelledby="marketsTitle">
+      <div class="section-heading"><div><span class="label">04 / THE TAPE</span><h2 id="marketsTitle">Where STONK changes hands.</h2></div><div class="segmented" id="activityRange" role="group" aria-label="Trade activity window"><button data-window="h1" aria-pressed="false">1H</button><button data-window="h6" aria-pressed="false">6H</button><button data-window="h24" aria-pressed="true">24H</button></div></div>
+      <div class="activity-strip"><div><span class="label">BUY TRADES</span><strong class="green" id="buys">—</strong></div><div><span class="label">SELL TRADES</span><strong class="red" id="sells">—</strong></div><div class="activity-balance"><div><span class="label">BUY / SELL COUNT</span><span id="buyRatio" class="small">—</span></div><div class="trade-track" id="tradeTrack" role="img" aria-label="Buy versus sell trade counts"><span id="buyBar"></span><span id="sellBar"></span></div><span class="small muted">Trade counts, not dollar flows or unique traders.</span></div></div>
+      <div class="panel market-table"><div class="panel-heading"><h3>Liquidity venues</h3><label class="sort-label">SORT BY <select id="marketSort" aria-label="Sort liquidity venues"><option value="liquidity">Liquidity</option><option value="volume">24h volume</option></select></label></div><div class="table-scroll"><table><thead><tr><th>Venue / Pair</th><th>Price</th><th>Liquidity</th><th>Volume / 24h</th><th>24h change</th><th>Pool</th></tr></thead><tbody id="marketRows"><tr><td colspan="6" class="empty">Waiting for market data.</td></tr></tbody></table></div><div class="table-controls"><span class="small muted" id="marketShown">—</span><button class="text-button" id="moreMarkets" type="button">SHOW ALL ↓</button></div></div>
+    </section>
+
+    <section class="methodology section" aria-labelledby="methodologyTitle"><div class="section-heading"><div><span class="label">THE FINE PRINT, IN NORMAL-SIZED TYPE</span><h2 id="methodologyTitle">Know your numbers.</h2></div><a href="data/snapshot.json" target="_blank" rel="noopener noreferrer">RAW DATA ↗</a></div><div class="method-grid"><div><h3>One token. Different lenses.</h3><p>Price comes from the deepest returned DexScreener pool. Supply-adjusted value uses that price × StonkFun's current total supply; it is not a verified circulating market cap. DEX volume and liquidity sum unique returned pools, not the whole market. Routed trades can touch multiple pools.</p><p id="supplyDiscrepancy">Supply differences between providers will be shown here.</p></div><div><h3>Revenue is not your dividend.</h3><p>Revenue and buyback figures are reported by StonkFun. Revenue includes STONK-quoted launch fees, excludes STONK's own-pool fees, and is not profit. Direct STONK-fee burns require no open-market buy. The separate ecosystem flywheel is not counted as STONK buybacks.</p><p id="coverageNote">Ledger pricing coverage will appear here.</p></div><div><h3>Whales are addresses, not identities.</h3><p>Holder balances come from RugCheck's largest-account sample, using raw balances and that report's supply. Accounts are grouped by owner; known pool vaults are separated. Unmatched owners may still be custodians or contracts. An observed balance change is not proof of a buy or sale.</p><p>~24h deltas require two observations 20–28 hours apart, with the owner present in both. Provider cache age is unknown; collection time is shown below.</p></div></div><details class="source-details"><summary>Source timestamps & collection status</summary><div class="table-scroll"><table><thead><tr><th>Dataset</th><th>Collected (UTC)</th><th>Provider timestamp (UTC)</th><th>Status</th><th>Source</th></tr></thead><tbody id="sourceRows"></tbody></table></div></details></section>
+
+    <footer><div class="footer-brand">STONK<span>/ DESK</span><span class="footer-note">PUBLIC SOURCES. ACTUAL NUMBERS.</span></div><div><a href="https://www.stonkfun.xyz/" target="_blank" rel="noopener noreferrer">PROJECT ↗</a><a href="https://x.com/LaunchOnSF" target="_blank" rel="noopener noreferrer">X ↗</a><a href="#main">BACK TO THE DESK ↑</a></div><p>Independent dashboard. “Shareholder” is the bit; STONK is a Solana token. Data collected on a 30-minute schedule when hosted with the included workflow.</p></footer>
+  </main>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+</body>
+</html>
