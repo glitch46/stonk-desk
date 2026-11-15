@@ -4,6 +4,8 @@ An independent analytics dashboard for **STONK** on Solana:
 
 `6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx`
 
+**Live:** https://glitch46.github.io/stonk-desk/
+
 Inspired by the VVV dashboard's static site + scheduled JSON collection structure. Plain HTML, CSS, JavaScript, and a Python standard-library collector. No build step, application dependencies, API keys, or wallet connection.
 
 ## Preview locally
@@ -61,10 +63,13 @@ The page checks for newly published JSON every minute while visible. **Refresh**
 
 ## GitHub Pages
 
-1. Publish this folder as the **root of its own repository**.
+This repository is already deployed at **https://glitch46.github.io/stonk-desk/** with Pages set to **GitHub Actions** (`build_type: workflow`). `refresh.yml` and `pages.yml` are both active; no secrets are required.
+
+To run it from your own fork or account:
+
+1. Publish the folder as the **root of a repository**.
 2. In **Settings → Pages → Build and deployment**, choose **GitHub Actions**.
-3. Enable repository Actions with read/write contents permission for the refresh workflow.
-4. Run **Deploy dashboard** once, or push to `main` / `master`.
+3. Run **Deploy dashboard** once, or push to `main` / `master`.
 
 `refresh.yml` collects data at minutes 7 and 37 of every hour and commits the two data files. GitHub can delay scheduled runs. `pages.yml` deploys both on ordinary pushes and after successful refresh workflows: this explicit workflow trigger is needed because bot-token commits do not trigger ordinary push workflows.
 
