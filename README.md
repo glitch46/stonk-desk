@@ -81,7 +81,7 @@ The collector-only observation history is kept in the repository for continuity 
 index.html                    Semantic dashboard layout
 styles.css                    Responsive trading-desk design
 app.js                        Rendering, SVG charts, filters, snapshot refresh
-assets/stonk-ape.svg           Text-free ape and candlestick badge
+assets/stonk-desk.png          Supplied logo with transparent background and trimmed margins
 scripts/refresh.py            Public data collection, validation, last-good cache
 scripts/test_refresh.py       Accounting and outage regression checks
 data/snapshot.json            Published source data and holder baseline
@@ -89,7 +89,7 @@ data/holder-history.json      Rolling holder observations for the collector
 .github/workflows/            Collection and Pages deployment
 ```
 
-Fonts are loaded from Google Fonts with system fallbacks. Charts and graphics are local SVG; the application needs no JavaScript CDN.
+Fonts are loaded from Google Fonts with system fallbacks. Charts are local SVG and the supplied logo is a transparent PNG; the application needs no JavaScript CDN.
 
 ## Verification
 
