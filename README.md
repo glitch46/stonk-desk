@@ -81,7 +81,7 @@ The collector-only observation history is kept in the repository for continuity 
 index.html                    Semantic dashboard layout
 styles.css                    Responsive trading-desk design
 app.js                        Rendering, SVG charts, filters, snapshot refresh
-assets/desk-trader.svg         Original vector illustration
+assets/stonk-ape.svg           Text-free ape and candlestick badge
 scripts/refresh.py            Public data collection, validation, last-good cache
 scripts/test_refresh.py       Accounting and outage regression checks
 data/snapshot.json            Published source data and holder baseline
