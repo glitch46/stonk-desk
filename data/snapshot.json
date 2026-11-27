@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "mint": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
-  "generatedAt": "2026-11-27T16:16:19+00:00",
+  "generatedAt": "2026-11-27T16:39:50+00:00",
   "sources": {
     "markets": {
       "status": "ok",
-      "fetchedAt": "2026-11-27T16:16:18+00:00",
+      "fetchedAt": "2026-11-27T16:39:49+00:00",
       "sourceAsOf": null,
       "url": "https://api.dexscreener.com/latest/dex/tokens/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
       "data": {
@@ -29,50 +29,50 @@
               "name": "Wrapped SOL",
               "symbol": "SOL"
             },
-            "priceNative": "0.0004627",
-            "priceUsd": "0.03340",
+            "priceNative": "0.0004636",
+            "priceUsd": "0.03359",
             "txns": {
               "m5": {
-                "buys": 8,
-                "sells": 4
+                "buys": 3,
+                "sells": 0
               },
               "h1": {
-                "buys": 119,
-                "sells": 185
+                "buys": 110,
+                "sells": 58
               },
               "h6": {
-                "buys": 613,
+                "buys": 609,
                 "sells": 611
               },
               "h24": {
-                "buys": 2483,
-                "sells": 1832
+                "buys": 2516,
+                "sells": 1790
               }
             },
             "volume": {
-              "h24": 625102.86,
-              "h6": 242076.33,
-              "h1": 58689.62,
-              "m5": 442.11
+              "h24": 623019.44,
+              "h6": 237821.48,
+              "h1": 23781.56,
+              "m5": 2424.72
             },
             "priceChange": {
-              "m5": 0.23,
-              "h1": 3.31,
-              "h6": -2.39,
-              "h24": 6.44
+              "m5": 1.32,
+              "h1": 2.41,
+              "h6": -2.12,
+              "h24": 7.89
             },
             "liquidity": {
-              "base": 16314271,
-              "quote": 4502.009672,
-              "usd": 869874.73
+              "base": 16229894,
+              "quote": 4541.1091,
+              "usd": 874342.5
             },
-            "fdv": 33401411,
-            "marketCap": 33401411,
+            "fdv": 33598107,
+            "marketCap": 33598107,
             "pairCreatedAt": 1786531900000,
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -117,7 +117,7 @@
                 "sells": 0
               },
               "h1": {
-                "buys": 18,
+                "buys": 2,
                 "sells": 0
               },
               "h6": {
@@ -126,18 +126,18 @@
               },
               "h24": {
                 "buys": 216,
-                "sells": 196
+                "sells": 191
               }
             },
             "volume": {
-              "h24": 28676.19,
+              "h24": 28675.76,
               "h6": 11407.2,
-              "h1": 1779.94
+              "h1": 830.27
             },
             "priceChange": {
-              "h1": 4.99,
+              "h1": 1.22,
               "h6": -3.04,
-              "h24": 7.28
+              "h24": 5.75
             },
             "liquidity": {
               "base": 11084240,
@@ -150,7 +150,7 @@
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -187,50 +187,50 @@
               "name": "USD Coin",
               "symbol": "USDC"
             },
-            "priceNative": "0.03331",
-            "priceUsd": "0.03331",
+            "priceNative": "0.03346",
+            "priceUsd": "0.03346",
             "txns": {
               "m5": {
-                "buys": 25,
-                "sells": 36
+                "buys": 10,
+                "sells": 14
               },
               "h1": {
-                "buys": 234,
-                "sells": 415
+                "buys": 215,
+                "sells": 302
               },
               "h6": {
-                "buys": 1756,
-                "sells": 1641
+                "buys": 1765,
+                "sells": 1658
               },
               "h24": {
-                "buys": 5530,
-                "sells": 5857
+                "buys": 5505,
+                "sells": 5881
               }
             },
             "volume": {
-              "h24": 340194.48,
-              "h6": 121625.58,
-              "h1": 24936.37,
-              "m5": 1453.98
+              "h24": 341805.01,
+              "h6": 116792.1,
+              "h1": 17523.57,
+              "m5": 661.48
             },
             "priceChange": {
-              "m5": 0.15,
-              "h1": 3.44,
-              "h6": -2.55,
-              "h24": 6.32
+              "m5": 0.03,
+              "h1": 1.15,
+              "h6": -2.45,
+              "h24": 7.22
             },
             "liquidity": {
-              "base": 3840094,
-              "quote": 11217,
-              "usd": 139152.57
+              "base": 3826286,
+              "quote": 11682,
+              "usd": 139741.68
             },
-            "fdv": 33315656,
-            "marketCap": 33315656,
+            "fdv": 33468200,
+            "marketCap": 33468200,
             "pairCreatedAt": 1791093460000,
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -267,50 +267,50 @@
               "name": "SP500 xStock",
               "symbol": "SPYx"
             },
-            "priceNative": "0.00004522",
-            "priceUsd": "0.03304",
+            "priceNative": "0.00004538",
+            "priceUsd": "0.03321",
             "txns": {
               "m5": {
-                "buys": 5,
+                "buys": 1,
                 "sells": 0
               },
               "h1": {
-                "buys": 56,
+                "buys": 28,
                 "sells": 0
               },
               "h6": {
-                "buys": 66,
+                "buys": 69,
                 "sells": 93
               },
               "h24": {
-                "buys": 288,
+                "buys": 291,
                 "sells": 153
               }
             },
             "volume": {
-              "h24": 45633.72,
-              "h6": 18262.64,
-              "h1": 4897.84,
-              "m5": 412.88
+              "h24": 46367.61,
+              "h6": 18996.54,
+              "h1": 2255.76,
+              "m5": 547.79
             },
             "priceChange": {
-              "m5": 0.1,
-              "h1": 3.06,
-              "h6": -3.32,
-              "h24": 5.71
+              "m5": 0.35,
+              "h1": 1.4,
+              "h6": -2.8,
+              "h24": 6.28
             },
             "liquidity": {
-              "base": 10378498,
-              "quote": 563.843,
-              "usd": 754850.21
+              "base": 10356583,
+              "quote": 564.8388,
+              "usd": 757465.12
             },
-            "fdv": 33040908,
-            "marketCap": 33040908,
+            "fdv": 33219406,
+            "marketCap": 33219406,
             "pairCreatedAt": 1784833637000,
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -347,50 +347,50 @@
               "name": "USD Coin",
               "symbol": "USDC"
             },
-            "priceNative": "0.03333",
-            "priceUsd": "0.03333",
+            "priceNative": "0.03345",
+            "priceUsd": "0.03345",
             "txns": {
               "m5": {
                 "buys": 1,
                 "sells": 0
               },
               "h1": {
-                "buys": 30,
-                "sells": 17
+                "buys": 24,
+                "sells": 21
               },
               "h6": {
-                "buys": 107,
-                "sells": 132
+                "buys": 110,
+                "sells": 138
               },
               "h24": {
-                "buys": 363,
-                "sells": 377
+                "buys": 370,
+                "sells": 379
               }
             },
             "volume": {
-              "h24": 298.17,
-              "h6": 109.12,
-              "h1": 22.19,
-              "m5": 0.91
+              "h24": 301.56,
+              "h6": 111.97,
+              "h1": 17.58,
+              "m5": 0.22
             },
             "priceChange": {
-              "m5": 0.23,
-              "h1": 3.14,
-              "h6": -2.73,
-              "h24": 6.15
+              "m5": 0.06,
+              "h1": 1.24,
+              "h6": -2.26,
+              "h24": 7.34
             },
             "liquidity": {
-              "base": 3087663,
-              "quote": 3386.07741,
-              "usd": 106298.05
+              "base": 3087619,
+              "quote": 3387.5627,
+              "usd": 106676.11
             },
-            "fdv": 33330044,
-            "marketCap": 33330044,
+            "fdv": 33452483,
+            "marketCap": 33452483,
             "pairCreatedAt": 1788857970000,
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -435,7 +435,7 @@
                 "sells": 0
               },
               "h1": {
-                "buys": 8,
+                "buys": 4,
                 "sells": 0
               },
               "h6": {
@@ -450,10 +450,10 @@
             "volume": {
               "h24": 278.74,
               "h6": 125.1,
-              "h1": 27.47
+              "h1": 6.78
             },
             "priceChange": {
-              "h1": 4.67,
+              "h1": 1.76,
               "h6": -3.22,
               "h24": 7
             },
@@ -468,7 +468,7 @@
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -505,50 +505,48 @@
               "name": "USD Coin",
               "symbol": "USDC"
             },
-            "priceNative": "0.03332",
-            "priceUsd": "0.03332",
+            "priceNative": "0.03349",
+            "priceUsd": "0.03349",
             "txns": {
               "m5": {
-                "buys": 3,
+                "buys": 0,
                 "sells": 0
               },
               "h1": {
-                "buys": 12,
+                "buys": 6,
                 "sells": 1
               },
               "h6": {
-                "buys": 21,
+                "buys": 22,
                 "sells": 27
               },
               "h24": {
-                "buys": 79,
+                "buys": 80,
                 "sells": 48
               }
             },
             "volume": {
-              "h24": 807.08,
-              "h6": 488.25,
-              "h1": 44.31,
-              "m5": 5.37
+              "h24": 812.64,
+              "h6": 493.82,
+              "h1": 27.44
             },
             "priceChange": {
-              "m5": 1.01,
-              "h1": 3.03,
-              "h6": -2.95,
-              "h24": 5.64
+              "h1": 1.5,
+              "h6": -2.46,
+              "h24": 6.17
             },
             "liquidity": {
-              "base": 1017918,
-              "quote": 347.9945,
-              "usd": 34269.54
+              "base": 1017752,
+              "quote": 353.5595,
+              "usd": 34439.03
             },
-            "fdv": 33324425,
-            "marketCap": 33324425,
+            "fdv": 33490935,
+            "marketCap": 33490935,
             "pairCreatedAt": 1788654599000,
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -614,9 +612,9 @@
               "h24": 7.61
             },
             "liquidity": {
-              "base": 880198,
-              "quote": 4028.2845,
-              "usd": 33149.26
+              "base": 880094,
+              "quote": 3993.5693,
+              "usd": 33111.08
             },
             "fdv": 33084537,
             "marketCap": 33084537,
@@ -624,7 +622,7 @@
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -661,47 +659,50 @@
               "name": "USD Coin",
               "symbol": "USDC"
             },
-            "priceNative": "0.03265",
-            "priceUsd": "0.03265",
+            "priceNative": "0.03285",
+            "priceUsd": "0.03285",
             "txns": {
               "m5": {
-                "buys": 0,
+                "buys": 1,
                 "sells": 0
               },
               "h1": {
-                "buys": 3,
+                "buys": 4,
                 "sells": 0
               },
               "h6": {
-                "buys": 13,
+                "buys": 14,
                 "sells": 10
               },
               "h24": {
-                "buys": 24,
+                "buys": 25,
                 "sells": 10
               }
             },
             "volume": {
-              "h24": 148.96,
-              "h6": 143.64
+              "h24": 148.98,
+              "h6": 143.65,
+              "h1": 0.02,
+              "m5": 0.01
             },
             "priceChange": {
-              "h1": 0.36,
-              "h6": -3.39,
-              "h24": 3.91
+              "m5": 0.6,
+              "h1": 0.96,
+              "h6": -2.81,
+              "h24": 4.54
             },
             "liquidity": {
               "base": 268598,
-              "quote": 26.7743,
-              "usd": 8797.6
+              "quote": 24.2684,
+              "usd": 8848.08
             },
-            "fdv": 32653992,
-            "marketCap": 32653992,
+            "fdv": 32851330,
+            "marketCap": 32851330,
             "pairCreatedAt": 1791102653000,
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -738,50 +739,50 @@
               "name": "Wrapped SOL",
               "symbol": "SOL"
             },
-            "priceNative": "0.0004618",
-            "priceUsd": "0.03332",
+            "priceNative": "0.0004630",
+            "priceUsd": "0.03355",
             "txns": {
               "m5": {
                 "buys": 1,
                 "sells": 0
               },
               "h1": {
-                "buys": 18,
-                "sells": 11
+                "buys": 13,
+                "sells": 9
               },
               "h6": {
-                "buys": 58,
-                "sells": 101
+                "buys": 53,
+                "sells": 94
               },
               "h24": {
                 "buys": 284,
-                "sells": 183
+                "sells": 182
               }
             },
             "volume": {
-              "h24": 72.95,
-              "h6": 29.4,
-              "h1": 8.97,
-              "m5": 0.29
+              "h24": 73.1,
+              "h6": 28.5,
+              "h1": 6.77,
+              "m5": 0.24
             },
             "priceChange": {
-              "m5": 0.41,
-              "h1": 4.72,
-              "h6": -2.61,
-              "h24": 6.28
+              "m5": 0.88,
+              "h1": 2.21,
+              "h6": -2.19,
+              "h24": 7.59
             },
             "liquidity": {
-              "base": 14369,
-              "quote": 5.1444,
-              "usd": 850.14
+              "base": 14354,
+              "quote": 5.151,
+              "usd": 854.89
             },
-            "fdv": 33329808,
-            "marketCap": 33329808,
+            "fdv": 33552935,
+            "marketCap": 33552935,
             "pairCreatedAt": 1788942672000,
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -818,48 +819,50 @@
               "name": "Zcash",
               "symbol": "ZEC"
             },
-            "priceNative": "0.00004489",
-            "priceUsd": "0.03320",
+            "priceNative": "0.00004422",
+            "priceUsd": "0.03350",
             "txns": {
               "m5": {
                 "buys": 0,
-                "sells": 0
+                "sells": 2
               },
               "h1": {
                 "buys": 2,
-                "sells": 0
+                "sells": 2
               },
               "h6": {
                 "buys": 5,
-                "sells": 10
+                "sells": 12
               },
               "h24": {
-                "buys": 37,
-                "sells": 34
+                "buys": 35,
+                "sells": 36
               }
             },
             "volume": {
-              "h24": 1257.74,
-              "h6": 252.43,
-              "h1": 38.2
+              "h24": 1295.58,
+              "h6": 291.23,
+              "h1": 77,
+              "m5": 38.79
             },
             "priceChange": {
-              "h1": 2.62,
-              "h6": -2.23,
-              "h24": 6.97
+              "m5": 0.91,
+              "h1": 3.56,
+              "h6": -1.34,
+              "h24": 6.39
             },
             "liquidity": {
-              "base": 136979,
-              "quote": 0.4183,
-              "usd": 4857.66
+              "base": 138137,
+              "quote": 0.3671,
+              "usd": 4906.67
             },
-            "fdv": 33203803,
-            "marketCap": 33203803,
+            "fdv": 33506467,
+            "marketCap": 33506467,
             "pairCreatedAt": 1795623853000,
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -896,50 +899,50 @@
               "name": "Wrapped SOL",
               "symbol": "SOL"
             },
-            "priceNative": "0.0004612",
-            "priceUsd": "0.03328",
+            "priceNative": "0.0004624",
+            "priceUsd": "0.03350",
             "txns": {
               "m5": {
                 "buys": 1,
                 "sells": 0
               },
               "h1": {
-                "buys": 12,
+                "buys": 7,
                 "sells": 2
               },
               "h6": {
                 "buys": 40,
-                "sells": 51
+                "sells": 48
               },
               "h24": {
-                "buys": 166,
-                "sells": 136
+                "buys": 168,
+                "sells": 135
               }
             },
             "volume": {
-              "h24": 261.39,
-              "h6": 102.44,
-              "h1": 20.35,
-              "m5": 0.69
+              "h24": 262.24,
+              "h6": 100.86,
+              "h1": 9.16,
+              "m5": 1.04
             },
             "priceChange": {
-              "m5": 0.25,
-              "h1": 4.24,
-              "h6": -3.56,
-              "h24": 6.38
+              "m5": 0.95,
+              "h1": 1.98,
+              "h6": -2.08,
+              "h24": 7.1
             },
             "liquidity": {
-              "base": 39999,
-              "quote": 3.9141,
-              "usd": 1613.78
+              "base": 39946,
+              "quote": 3.9388,
+              "usd": 1623.84
             },
-            "fdv": 33283873,
-            "marketCap": 33283873,
+            "fdv": 33505801,
+            "marketCap": 33505801,
             "pairCreatedAt": 1788750712000,
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -976,8 +979,8 @@
               "name": "USD Coin",
               "symbol": "USDC"
             },
-            "priceNative": "0.03271",
-            "priceUsd": "0.03271",
+            "priceNative": "0.03339",
+            "priceUsd": "0.03339",
             "txns": {
               "m5": {
                 "buys": 0,
@@ -985,39 +988,39 @@
               },
               "h1": {
                 "buys": 1,
-                "sells": 1
+                "sells": 0
               },
               "h6": {
-                "buys": 1,
+                "buys": 2,
                 "sells": 7
               },
               "h24": {
-                "buys": 13,
+                "buys": 14,
                 "sells": 10
               }
             },
             "volume": {
-              "h24": 32.52,
-              "h6": 13.31,
-              "h1": 3.51
+              "h24": 35.82,
+              "h6": 16.6,
+              "h1": 3.29
             },
             "priceChange": {
-              "h1": 2.05,
-              "h6": -4.13,
-              "h24": 1.91
+              "h1": 2.06,
+              "h6": -2.15,
+              "h24": 4.01
             },
             "liquidity": {
-              "base": 131090,
-              "quote": 247.9396,
-              "usd": 4537.21
+              "base": 130992,
+              "quote": 251.236,
+              "usd": 4625.65
             },
-            "fdv": 32719924,
-            "marketCap": 32719924,
+            "fdv": 33394539,
+            "marketCap": 33394539,
             "pairCreatedAt": 1788700786000,
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -1062,12 +1065,12 @@
                 "sells": 0
               },
               "h1": {
-                "buys": 10,
+                "buys": 2,
                 "sells": 0
               },
               "h6": {
                 "buys": 24,
-                "sells": 36
+                "sells": 35
               },
               "h24": {
                 "buys": 125,
@@ -1076,12 +1079,12 @@
             },
             "volume": {
               "h24": 12.56,
-              "h6": 4.31,
-              "h1": 0.88
+              "h6": 4.27,
+              "h1": 0.26
             },
             "priceChange": {
-              "h1": 4.13,
-              "h6": -3,
+              "h1": 1.28,
+              "h6": -2.79,
               "h24": 6.05
             },
             "liquidity": {
@@ -1095,7 +1098,7 @@
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -1136,11 +1139,11 @@
             "priceUsd": "0.03340",
             "txns": {
               "m5": {
-                "buys": 2,
+                "buys": 0,
                 "sells": 0
               },
               "h1": {
-                "buys": 13,
+                "buys": 8,
                 "sells": 0
               },
               "h6": {
@@ -1155,12 +1158,10 @@
             "volume": {
               "h24": 68.63,
               "h6": 21.71,
-              "h1": 9.91,
-              "m5": 1.68
+              "h1": 6.68
             },
             "priceChange": {
-              "m5": 0.38,
-              "h1": 4.31,
+              "h1": 2.67,
               "h6": -1.55,
               "h24": 6.7
             },
@@ -1175,7 +1176,7 @@
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -1213,49 +1214,47 @@
               "symbol": "RAY"
             },
             "priceNative": "0.02513",
-            "priceUsd": "0.03315",
+            "priceUsd": "0.03314",
             "txns": {
               "m5": {
-                "buys": 2,
+                "buys": 0,
                 "sells": 0
               },
               "h1": {
-                "buys": 18,
-                "sells": 11
+                "buys": 15,
+                "sells": 13
               },
               "h6": {
-                "buys": 36,
-                "sells": 58
+                "buys": 38,
+                "sells": 61
               },
               "h24": {
-                "buys": 147,
+                "buys": 150,
                 "sells": 208
               }
             },
             "volume": {
-              "h24": 102.93,
-              "h6": 27.33,
-              "h1": 8.01,
-              "m5": 0.23
+              "h24": 104.39,
+              "h6": 28.3,
+              "h1": 8.35
             },
             "priceChange": {
-              "m5": 0.22,
-              "h1": 2.52,
-              "h6": -3.46,
-              "h24": 5.75
+              "h1": 0.4,
+              "h6": -2.94,
+              "h24": 5.88
             },
             "liquidity": {
-              "base": 6417.8897,
-              "quote": 164.007331,
-              "usd": 429.17
+              "base": 6417.5332,
+              "quote": 164.01976,
+              "usd": 429
             },
-            "fdv": 33158256,
-            "marketCap": 33158256,
+            "fdv": 33146990,
+            "marketCap": 33146990,
             "pairCreatedAt": 1789139572000,
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -1300,7 +1299,7 @@
                 "sells": 0
               },
               "h1": {
-                "buys": 18,
+                "buys": 7,
                 "sells": 0
               },
               "h6": {
@@ -1315,10 +1314,10 @@
             "volume": {
               "h24": 88.71,
               "h6": 34.02,
-              "h1": 15.77
+              "h1": 4.99
             },
             "priceChange": {
-              "h1": 4.37,
+              "h1": 1.25,
               "h6": -3.09,
               "h24": 6.45
             },
@@ -1333,7 +1332,7 @@
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -1378,7 +1377,7 @@
                 "sells": 0
               },
               "h1": {
-                "buys": 4,
+                "buys": 2,
                 "sells": 0
               },
               "h6": {
@@ -1393,10 +1392,10 @@
             "volume": {
               "h24": 73.65,
               "h6": 17.97,
-              "h1": 2.93
+              "h1": 0.41
             },
             "priceChange": {
-              "h1": 3.74,
+              "h1": 1.67,
               "h6": -3.31,
               "h24": 7.09
             },
@@ -1411,7 +1410,7 @@
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -1448,48 +1447,48 @@
               "name": "Tytron",
               "symbol": "TYTR"
             },
-            "priceNative": "8068.4413",
-            "priceUsd": "0.03328",
+            "priceNative": "8079.7790",
+            "priceUsd": "0.03331",
             "txns": {
               "m5": {
                 "buys": 0,
                 "sells": 0
               },
               "h1": {
-                "buys": 13,
+                "buys": 5,
                 "sells": 0
               },
               "h6": {
-                "buys": 22,
+                "buys": 23,
                 "sells": 26
               },
               "h24": {
-                "buys": 86,
+                "buys": 87,
                 "sells": 58
               }
             },
             "volume": {
-              "h24": 43.47,
-              "h6": 15.38,
-              "h1": 3.28
+              "h24": 43.68,
+              "h6": 15.59,
+              "h1": 1.31
             },
             "priceChange": {
-              "h1": 3.1,
-              "h6": -3.04,
-              "h24": 6.39
+              "h1": 0.66,
+              "h6": -2.97,
+              "h24": 6.47
             },
             "liquidity": {
-              "base": 5442.8515,
-              "quote": 88670205,
-              "usd": 547
+              "base": 5436.3957,
+              "quote": 88722366,
+              "usd": 546.88
             },
-            "fdv": 25604175,
-            "marketCap": 25604175,
+            "fdv": 25622404,
+            "marketCap": 25622404,
             "pairCreatedAt": 1791161333000,
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -1526,49 +1525,48 @@
               "name": "USD Coin",
               "symbol": "USDC"
             },
-            "priceNative": "0.03311",
-            "priceUsd": "0.03311",
+            "priceNative": "0.03326",
+            "priceUsd": "0.03326",
             "txns": {
               "m5": {
-                "buys": 1,
+                "buys": 0,
                 "sells": 0
               },
               "h1": {
-                "buys": 5,
+                "buys": 4,
                 "sells": 0
               },
               "h6": {
-                "buys": 5,
+                "buys": 7,
                 "sells": 7
               },
               "h24": {
-                "buys": 30,
+                "buys": 32,
                 "sells": 10
               }
             },
             "volume": {
-              "h24": 0.8,
-              "h6": 0.32,
-              "h1": 0.1
+              "h24": 0.81,
+              "h6": 0.34,
+              "h1": 0.05
             },
             "priceChange": {
-              "m5": 0.17,
-              "h1": 2.73,
-              "h6": -3.15,
-              "h24": 5.6
+              "h1": 1.45,
+              "h6": -2.73,
+              "h24": 6.07
             },
             "liquidity": {
-              "base": 26022,
-              "quote": 53.4405,
-              "usd": 915.25
+              "base": 26021,
+              "quote": 53.455,
+              "usd": 919.02
             },
-            "fdv": 33118244,
-            "marketCap": 33118244,
+            "fdv": 33263353,
+            "marketCap": 33263353,
             "pairCreatedAt": 1789337625000,
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -1644,7 +1642,7 @@
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -1681,48 +1679,50 @@
               "name": "Zcash",
               "symbol": "ZEC"
             },
-            "priceNative": "0.00004497",
-            "priceUsd": "0.03308",
+            "priceNative": "0.00004429",
+            "priceUsd": "0.03359",
             "txns": {
               "m5": {
                 "buys": 0,
-                "sells": 0
+                "sells": 2
               },
               "h1": {
                 "buys": 3,
-                "sells": 0
+                "sells": 4
               },
               "h6": {
                 "buys": 11,
-                "sells": 18
+                "sells": 20
               },
               "h24": {
-                "buys": 49,
-                "sells": 49
+                "buys": 47,
+                "sells": 53
               }
             },
             "volume": {
-              "h24": 20.55,
-              "h6": 6.3,
-              "h1": 0.73
+              "h24": 21.06,
+              "h6": 6.77,
+              "h1": 1.59,
+              "m5": 0.44
             },
             "priceChange": {
-              "h1": 3.63,
-              "h6": -3.38,
-              "h24": 6.16
+              "m5": -0.02,
+              "h1": 5.22,
+              "h6": -2.34,
+              "h24": 7.22
             },
             "liquidity": {
-              "base": 2554.6394,
-              "quote": 0.03438,
-              "usd": 109.81
+              "base": 2580.276,
+              "quote": 0.03324,
+              "usd": 111.89
             },
-            "fdv": 33086109,
-            "marketCap": 33086109,
+            "fdv": 33593364,
+            "marketCap": 33593364,
             "pairCreatedAt": 1788584581000,
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -1800,7 +1800,7 @@
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -1876,7 +1876,7 @@
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -1921,7 +1921,7 @@
                 "sells": 0
               },
               "h1": {
-                "buys": 3,
+                "buys": 1,
                 "sells": 0
               },
               "h6": {
@@ -1936,10 +1936,10 @@
             "volume": {
               "h24": 2.65,
               "h6": 1.08,
-              "h1": 0.22
+              "h1": 0.1
             },
             "priceChange": {
-              "h1": 2.87,
+              "h1": 1.56,
               "h6": -3.07,
               "h24": 3.96
             },
@@ -1954,7 +1954,7 @@
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -2030,7 +2030,7 @@
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -2075,27 +2075,25 @@
                 "sells": 0
               },
               "h1": {
-                "buys": 2,
+                "buys": 0,
                 "sells": 0
               },
               "h6": {
-                "buys": 14,
+                "buys": 13,
                 "sells": 5
               },
               "h24": {
-                "buys": 44,
+                "buys": 43,
                 "sells": 22
               }
             },
             "volume": {
               "h24": 0.23,
-              "h6": 0.04,
-              "h1": 0.01
+              "h6": 0.04
             },
             "priceChange": {
-              "h1": 2.48,
-              "h6": -3.08,
-              "h24": 4.85
+              "h6": -3.12,
+              "h24": 5.59
             },
             "liquidity": {
               "base": 57.5078,
@@ -2108,7 +2106,7 @@
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -2145,24 +2143,24 @@
               "name": "USD Coin",
               "symbol": "USDC"
             },
-            "priceNative": "0.03285",
-            "priceUsd": "0.03285",
+            "priceNative": "0.03303",
+            "priceUsd": "0.03303",
             "txns": {
               "m5": {
                 "buys": 0,
                 "sells": 0
               },
               "h1": {
-                "buys": 0,
-                "sells": 0
+                "buys": 1,
+                "sells": 1
               },
               "h6": {
                 "buys": 2,
-                "sells": 3
+                "sells": 4
               },
               "h24": {
-                "buys": 11,
-                "sells": 29
+                "buys": 12,
+                "sells": 28
               }
             },
             "volume": {
@@ -2170,21 +2168,22 @@
               "h6": 0.05
             },
             "priceChange": {
-              "h6": -1.76,
-              "h24": 5.41
+              "h1": 0.56,
+              "h6": -2.05,
+              "h24": 6
             },
             "liquidity": {
-              "base": 77.3641,
-              "quote": 8.02149,
-              "usd": 10.56
+              "base": 77.1477,
+              "quote": 8.02869,
+              "usd": 10.57
             },
-            "fdv": 32851442,
-            "marketCap": 32851442,
+            "fdv": 33034217,
+            "marketCap": 33034217,
             "pairCreatedAt": 1786502635000,
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -2256,7 +2255,7 @@
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -2334,7 +2333,7 @@
             "info": {
               "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
               "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
-              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795796100000",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1795797300000",
               "websites": [
                 {
                   "url": "https://www.stonkfun.xyz/",
@@ -2358,34 +2357,34 @@
     },
     "revenue": {
       "status": "ok",
-      "fetchedAt": "2026-11-27T16:16:18+00:00",
-      "sourceAsOf": "2026-11-27T16:10:52.483Z",
+      "fetchedAt": "2026-11-27T16:39:49+00:00",
+      "sourceAsOf": "2026-11-27T16:37:19.692Z",
       "url": "https://www.stonkfun.xyz/api/v2/revenue/summary",
       "data": {
         "totals": {
-          "totalRevenueUsd": 37678481.34950065,
-          "platformPairExcludedUsd": 2763777.4482734455,
-          "stonkQuoteRevenueUsd": 2616900.204699755,
-          "totalBuybackUsd": 22524952.257924315,
-          "buybackCount": 322246,
-          "lastBuybackAt": "2026-11-27T16:07:33.192Z",
-          "buybackBoughtTokens": 223076803.394002,
-          "buybackBoughtUsd": 22334857.09978386,
-          "buybackBurnTokens": 210740540.26645154,
-          "buybackBurnUsd": 22340937.204270594,
-          "quoteRevenueBurnTokens": 9400272.247814447,
-          "quoteRevenueBurnUsd": 1578139.1339970515,
-          "stonkBurnedTokens": 230834777.44493592,
-          "stonkBurnedUsd": 23921200.19116542,
-          "feeBurnUsd": 1671610.493015945,
-          "feeIncomeUsd": 42113869.29079004,
-          "estimatedVolumeUsd": 4211386929.0790033
+          "totalRevenueUsd": 37678744.12361292,
+          "platformPairExcludedUsd": 2763795.6046574158,
+          "stonkQuoteRevenueUsd": 2616913.1858403604,
+          "totalBuybackUsd": 22525151.186617456,
+          "buybackCount": 322266,
+          "lastBuybackAt": "2026-11-27T16:32:35.127Z",
+          "buybackBoughtTokens": 223082628.85364574,
+          "buybackBoughtUsd": 22335051.173821766,
+          "buybackBurnTokens": 210746365.72609544,
+          "buybackBurnUsd": 22341131.336853378,
+          "quoteRevenueBurnTokens": 9400688.072429283,
+          "quoteRevenueBurnUsd": 1578152.9944841096,
+          "stonkBurnedTokens": 230841018.7291945,
+          "stonkBurnedUsd": 23921408.18423526,
+          "feeBurnUsd": 1671615.5090198964,
+          "feeIncomeUsd": 42114155.23729023,
+          "estimatedVolumeUsd": 4211415523.7290235
         },
         "coverage": {
-          "revenueRows": 903899,
-          "revenueRowsUnpriced": 1288,
-          "buybackRows": 322246,
-          "buybackRowsUnpriced": 355
+          "revenueRows": 904035,
+          "revenueRowsUnpriced": 1293,
+          "buybackRows": 322266,
+          "buybackRowsUnpriced": 356
         },
         "config": {
           "platformTokenMint": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
@@ -2396,185 +2395,257 @@
           "buybackEpoch": "2026-08-15T22:35:03.000Z",
           "buybackEpochInvalid": false
         },
-        "generatedAt": "2026-11-27T16:10:52.483Z"
+        "generatedAt": "2026-11-27T16:37:19.692Z"
       }
     },
     "platformToken": {
       "status": "ok",
-      "fetchedAt": "2026-11-27T16:16:18+00:00",
-      "sourceAsOf": "2026-11-27T16:15:39.664Z",
+      "fetchedAt": "2026-11-27T16:39:49+00:00",
+      "sourceAsOf": "2026-11-27T16:39:39.095Z",
       "url": "https://www.stonkfun.xyz/api/v2/revenue/platform-token",
       "data": {
         "platformTokenMint": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
-        "priceUsd": 0.03301512517257188,
-        "marketCapUsd": 25392682.272486992,
-        "supplyTokens": 769122701.7846531,
-        "generatedAt": "2026-11-27T16:15:39.664Z"
+        "priceUsd": 0.03320183050262591,
+        "marketCapUsd": 25536156.29459875,
+        "supplyTokens": 769119783.2138273,
+        "generatedAt": "2026-11-27T16:39:39.095Z"
       }
     },
     "buybacks": {
       "status": "ok",
-      "fetchedAt": "2026-11-27T16:16:18+00:00",
+      "fetchedAt": "2026-11-27T16:39:49+00:00",
       "sourceAsOf": null,
       "url": "https://www.stonkfun.xyz/api/v2/revenue/buybacks?limit=12&order=desc",
       "data": {
         "rows": [
           {
-            "signature": "H6tn7cTDsMg9zpykJee11HS1SJcGwzX7jbDygYV1uewaE6PpAq41FUKaQKevSeCZpPv5jRTPHqJhPG26pS6HRgi",
-            "quoteMint": "5wsjHxT5nW5jQuVupXUNnYszF3WoWCfGGk9LMcsCJzY8",
-            "quoteSymbol": "STANK",
-            "spentTokens": 7418.61548,
-            "spentValueUsd": 5.191534666774193,
-            "boughtTokens": 147.66312308,
-            "boughtValueUsd": 4.922345247339863,
-            "burnSignature": "5kEWKFtskkL8aQhzqgSJy9yWps7M4KnkVJ6jjBg95RboFQXywcvnUfZfvC9qSuRgZXScm3i6H8RiUvKXk8KhNxe",
-            "createdAt": "2026-11-27T16:12:26.389Z"
+            "signature": "5DnbwQUJdBsbBGFkbJQULaJGDAHTZhxHTGMw4PHCgnVAyDRX419djmit983KHMfq838osYEjZqwxNtDfLXSvqhqY",
+            "quoteMint": "SPHRp8cZaSQBTp1KMNP4V1X821SXhXWt4Q2yLdyHzju",
+            "quoteSymbol": "SPHR",
+            "spentTokens": 0.037574,
+            "spentValueUsd": 5.066333272587688,
+            "boughtTokens": 150.860023262,
+            "boughtValueUsd": 5.050719764095181,
+            "burnSignature": "2M6v9RpRFjvqcALRQ1csTwBCtMrhRY1tb5w1VTRJLmCTZ2tL4Kaupx3Ji4NDMPJPM3xMAq1K3Xx24akL8PVLHDmv",
+            "createdAt": "2026-11-27T16:37:34.432Z"
           },
           {
-            "signature": "2yck2yRqwgKooy5aPRq2BWdkFPb1ABZWaLEHm91HJHrpBYXnxNkj9fZFSqraa7scmbVPMmdFGLWqJ3C5YAyCgKNx",
-            "quoteMint": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
-            "quoteSymbol": "NVDAX",
-            "spentTokens": 0.04675658,
-            "spentValueUsd": 6.926860614994951,
-            "boughtTokens": 208.301626061,
-            "boughtValueUsd": 6.9437277071475085,
-            "burnSignature": "5kEWKFtskkL8aQhzqgSJy9yWps7M4KnkVJ6jjBg95RboFQXywcvnUfZfvC9qSuRgZXScm3i6H8RiUvKXk8KhNxe",
-            "createdAt": "2026-11-27T16:12:26.377Z"
+            "signature": "55VidKCq5jf1it36bFGVGSD2EiBjuHniqDFCMMj2Lvm8JNDRno5qsnVA9zCV48WaY1siz5AfivW8YfJHhVSv7T7Z",
+            "quoteMint": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+            "quoteSymbol": "ANSEM",
+            "spentTokens": 331.525086,
+            "spentValueUsd": 6.164454688409452,
+            "boughtTokens": 183.370999627,
+            "boughtValueUsd": 6.1391713454101495,
+            "burnSignature": "2M6v9RpRFjvqcALRQ1csTwBCtMrhRY1tb5w1VTRJLmCTZ2tL4Kaupx3Ji4NDMPJPM3xMAq1K3Xx24akL8PVLHDmv",
+            "createdAt": "2026-11-27T16:37:34.423Z"
           },
           {
-            "signature": "ntvdtxdi6ZjS64c2YuRbNN3vAM9VGPDbi7c21jnhcmDVcgpZ37GpwtmQnQ4YwSEaaRriCd2LU9yQv1ctXyR8kFx",
-            "quoteMint": "ysPp2Bt2j2UQu2tZwtSJz7JxyrmQ8GJcNJE5NyDoS5a",
-            "quoteSymbol": "MUSK4",
-            "spentTokens": 172.8362,
-            "spentValueUsd": 58.92686983704492,
-            "boughtTokens": 1628.990846516,
-            "boughtValueUsd": 54.30235514498758,
-            "burnSignature": "5kEWKFtskkL8aQhzqgSJy9yWps7M4KnkVJ6jjBg95RboFQXywcvnUfZfvC9qSuRgZXScm3i6H8RiUvKXk8KhNxe",
-            "createdAt": "2026-11-27T16:12:26.368Z"
+            "signature": "2rh7nkhREZEfEy7xNr5ATMHoYyDHw8cdQMytfuGpEkVjn43xLNcMcXWZU5nhUdYidTHhtASfj7m5rM3W6UzzEd7V",
+            "quoteMint": "PEPEqnuuCDbBC89p1u9vpnP1KQ2oj1xTcQBsjt9X55m",
+            "quoteSymbol": "PEPE",
+            "spentTokens": 2852213.8873,
+            "spentValueUsd": 9.924807456302926,
+            "boughtTokens": 298.354217523,
+            "boughtValueUsd": 9.988753220112631,
+            "burnSignature": "2M6v9RpRFjvqcALRQ1csTwBCtMrhRY1tb5w1VTRJLmCTZ2tL4Kaupx3Ji4NDMPJPM3xMAq1K3Xx24akL8PVLHDmv",
+            "createdAt": "2026-11-27T16:37:34.406Z"
           },
           {
-            "signature": "5ouiqfwd37drX8XTkL1feL2LHZnVqN5hXfiu14DXJS8fJeTN1CpWNuJQL5dUVVS8VN41S7Hh8SwYcSb4S7wjXdug",
-            "quoteMint": "Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw",
-            "quoteSymbol": "ANTHROPIC",
-            "spentTokens": 0.01001997,
-            "spentValueUsd": 6.589881759554356,
-            "boughtTokens": 196.480745194,
-            "boughtValueUsd": 6.54967904055169,
-            "burnSignature": "5kEWKFtskkL8aQhzqgSJy9yWps7M4KnkVJ6jjBg95RboFQXywcvnUfZfvC9qSuRgZXScm3i6H8RiUvKXk8KhNxe",
-            "createdAt": "2026-11-27T16:12:26.358Z"
-          },
-          {
-            "signature": "26KHe1bKtY8GJVdXrpJAubTxrURrsR3xguCEP5uPUuxLR8Drmw3Zs9Zp7TXRSozqNuBdkvSAm7UkJaWBHTMvkvGd",
-            "quoteMint": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
-            "quoteSymbol": "WETH",
-            "spentTokens": 0.00314476,
-            "spentValueUsd": 5.247891897174765,
-            "boughtTokens": 158.079577188,
-            "boughtValueUsd": 5.26957739510413,
-            "burnSignature": "5kEWKFtskkL8aQhzqgSJy9yWps7M4KnkVJ6jjBg95RboFQXywcvnUfZfvC9qSuRgZXScm3i6H8RiUvKXk8KhNxe",
-            "createdAt": "2026-11-27T16:12:26.348Z"
-          },
-          {
-            "signature": "5PLc7p1FECJumLQ8ZiwWhh2TqAnjLq2akgZoG4BiXxjHRYQyMxwetAL9ikAXbgbFf8ejrnWXFvLBpvZU57GtsN6J",
+            "signature": "e43dzyQnX6ghx6frL7RrQd7sQULRdGzgyEtrZodcNu97pnmqqkdfA4KW3zkwcXhFhcwcVmGkV1aoNcA2Ne5NyN6",
             "quoteMint": "98sMhvDwXj1RQi5c5Mndm3vPe9cBqPrbLaufMXFNMh5g",
             "quoteSymbol": "HYPE",
-            "spentTokens": 0.18744785,
-            "spentValueUsd": 12.048239541363094,
-            "boughtTokens": 362.56988701,
-            "boughtValueUsd": 12.086255003460304,
-            "burnSignature": "5kEWKFtskkL8aQhzqgSJy9yWps7M4KnkVJ6jjBg95RboFQXywcvnUfZfvC9qSuRgZXScm3i6H8RiUvKXk8KhNxe",
-            "createdAt": "2026-11-27T16:12:26.336Z"
+            "spentTokens": 0.114971611,
+            "spentValueUsd": 7.462665617225012,
+            "boughtTokens": 222.303863471,
+            "boughtValueUsd": 7.442624577339013,
+            "burnSignature": "2M6v9RpRFjvqcALRQ1csTwBCtMrhRY1tb5w1VTRJLmCTZ2tL4Kaupx3Ji4NDMPJPM3xMAq1K3Xx24akL8PVLHDmv",
+            "createdAt": "2026-11-27T16:37:34.391Z"
           },
           {
-            "signature": "ytoKGNLPxusToHsZ3rradETDzEFsndhokseDi8BR6MQcvCE93ArheDJXkfSCL4nTd4ABBePufEtQBP8EF3zmZbW",
+            "signature": "4koo15JY5vYwaJYmrd7sfHG6hd9WYfEpDGPmUzo3tMaXzrM5fzvgsEksnyGtrW1C5y52wYnoqZFnMCN6MWdeHZzG",
+            "quoteMint": "DoGEV7LASBkQbibMc5k5vKnTZoMg423GpJ5QtJEGfm7R",
+            "quoteSymbol": "DOGE",
+            "spentTokens": 87.84843799,
+            "spentValueUsd": 5.042967076862061,
+            "boughtTokens": 151.631880812,
+            "boughtValueUsd": 5.047217589118285,
+            "burnSignature": "gnSUjvg5QCz7aoK6GpT4BpXEBoNbr7GLL3nqvT7YHy5n34gyEmCa2EAZ2vHP4mfQa81To3qhD14Y5nmcQ1ssvwm",
+            "createdAt": "2026-11-27T16:32:35.127Z"
+          },
+          {
+            "signature": "G41T7mtXaE21fkCHcQzNV1TXy7wAdxcFzKShHJHgPbEM5iKYUAo5WzvLG3HnN73zDCaphPVknZR9AvULSzTekF7",
             "quoteMint": "SATqS9DYpLQsM2z51P4QCoqJRHa5wboV4qjJerJRUSH",
             "quoteSymbol": "RUSH",
-            "spentTokens": 0.084172985,
-            "spentValueUsd": 5.77495541036387,
-            "boughtTokens": 173.738666233,
-            "boughtValueUsd": 5.79157260237445,
-            "burnSignature": "5kEWKFtskkL8aQhzqgSJy9yWps7M4KnkVJ6jjBg95RboFQXywcvnUfZfvC9qSuRgZXScm3i6H8RiUvKXk8KhNxe",
-            "createdAt": "2026-11-27T16:12:26.326Z"
+            "spentTokens": 0.137807206,
+            "spentValueUsd": 9.53078297518118,
+            "boughtTokens": 286.665908393,
+            "boughtValueUsd": 9.541959166460574,
+            "burnSignature": "gnSUjvg5QCz7aoK6GpT4BpXEBoNbr7GLL3nqvT7YHy5n34gyEmCa2EAZ2vHP4mfQa81To3qhD14Y5nmcQ1ssvwm",
+            "createdAt": "2026-11-27T16:32:35.105Z"
           },
           {
-            "signature": "cYDSenWRftAU2c9oJjvZohis5H6aaNxKxcYXw7nnN47Fv1u2LUxU3ZcEKS9e3upEv1Few2fZMhxtr3z533fghF8",
+            "signature": "4XTjZjhP9igUQGZEsLgXLpvuJ4znJbVcSRjNVixife6wuGqYD71TBAZnDDPtVnB7wT9unxahg6waLp5dQpvzgZsq",
             "quoteMint": "So11111111111111111111111111111111111111112",
             "quoteSymbol": "SOL",
-            "spentTokens": 0.095551496,
-            "spentValueUsd": 6.88469577509044,
-            "boughtTokens": 207.379885724,
-            "boughtValueUsd": 6.913001523978164,
-            "burnSignature": "5kEWKFtskkL8aQhzqgSJy9yWps7M4KnkVJ6jjBg95RboFQXywcvnUfZfvC9qSuRgZXScm3i6H8RiUvKXk8KhNxe",
-            "createdAt": "2026-11-27T16:12:26.307Z"
+            "spentTokens": 0.109636799,
+            "spentValueUsd": 7.889950683814195,
+            "boughtTokens": 237.306328703,
+            "boughtValueUsd": 7.89897658609059,
+            "burnSignature": "gnSUjvg5QCz7aoK6GpT4BpXEBoNbr7GLL3nqvT7YHy5n34gyEmCa2EAZ2vHP4mfQa81To3qhD14Y5nmcQ1ssvwm",
+            "createdAt": "2026-11-27T16:32:35.093Z"
           },
           {
-            "signature": "3Q4d1BwadqanHGhauUPr8ZQtqvp1S5p9SF9vL41n5QNMFoEMXWt89RHryr8xLMU7AdzhLGggKP3prYNEVRvwLpum",
-            "quoteMint": "TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo",
-            "quoteSymbol": "TTWO",
-            "spentTokens": 0.024346,
-            "spentValueUsd": 5.609393412790344,
-            "boughtTokens": 168.959995749,
-            "boughtValueUsd": 5.603747180680299,
-            "burnSignature": "4VjbCJKomkDEE8R9kmkjc7igGoSwhMLii8vk8GBuyFAC1NpTGhupX5ueVd25FngNipCEVpg2zHfkxdc9u1vMz1Wn",
-            "createdAt": "2026-11-27T16:07:33.192Z"
-          },
-          {
-            "signature": "51vzEvqDY5E2nqhbi2SZfywGPpksjS829sKieTvxJtUpxH3YxfjS4J5hb8ALVqex4CogniCtXzujGdWo4KYzYbGE",
-            "quoteMint": "So11111111111111111111111111111111111111112",
-            "quoteSymbol": "SOL",
-            "spentTokens": 0.138299819,
-            "spentValueUsd": 9.95988757554167,
-            "boughtTokens": 299.962638974,
-            "boughtValueUsd": 9.948596323102853,
-            "burnSignature": "4VjbCJKomkDEE8R9kmkjc7igGoSwhMLii8vk8GBuyFAC1NpTGhupX5ueVd25FngNipCEVpg2zHfkxdc9u1vMz1Wn",
-            "createdAt": "2026-11-27T16:07:33.183Z"
-          },
-          {
-            "signature": "EbEbmwsPjF6UFzMyDLV3EhC4e3j6CcBj2htcEJGb7sbS54DTorhLebEJ8QDKLbou3cJsavaDZJKz5WbT9D1hgpf",
+            "signature": "2ZGti5xDP7sE3ud3dU3snpEaB1RyJoFCLSgdkrPAY66o1pBme6Edcn2rqGRFpSeaBzvU3EEVXtC6BLao5B6B7K2T",
             "quoteMint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
             "quoteSymbol": "ZEC",
-            "spentTokens": 0.00947459,
-            "spentValueUsd": 7.0072940068254415,
-            "boughtTokens": 210.704385736,
-            "boughtValueUsd": 6.988246550852985,
-            "burnSignature": "4VjbCJKomkDEE8R9kmkjc7igGoSwhMLii8vk8GBuyFAC1NpTGhupX5ueVd25FngNipCEVpg2zHfkxdc9u1vMz1Wn",
-            "createdAt": "2026-11-27T16:07:33.170Z"
+            "spentTokens": 0.00880618,
+            "spentValueUsd": 6.520988553919702,
+            "boughtTokens": 195.769667837,
+            "boughtValueUsd": 6.520679196164357,
+            "burnSignature": "7ooZVG9tPkpRzs2WNFcKJ2vsZkmCJkJtwEoy5aDBNGqnwt9tfGczpS3zkfEM9UV9e1gmyxXxrfq2ynMu8m4dWT5",
+            "createdAt": "2026-11-27T16:27:31.482Z"
           },
           {
-            "signature": "5idA9PyZCCFoULE6RkGPkRsVxRSP4wHM7gr4dqX6joVJ8QR5bSFBzmhKZng3snm9kvd2U4b6XotBKgEVMmi7AkaZ",
-            "quoteMint": "Xs3oZwbHvqis4NYcf4YKWmEia2eC84wSiVrcYcTqpH8",
-            "quoteSymbol": "SPCXX",
-            "spentTokens": 0.04237338,
-            "spentValueUsd": 5.572105341697633,
-            "boughtTokens": 167.728724666,
-            "boughtValueUsd": 5.547238455279727,
-            "burnSignature": "5sDYphFwjNjRUDgwesZpyKb9kRjvyWdTkSTeLHor3x6UCueMN7hUpARR95DwVR1byQ7eNgAXtnzWwRvULfjSJjfC",
-            "createdAt": "2026-11-27T16:02:36.148Z"
+            "signature": "2qRBhEkpoNMda4yodLgoCAkbWkuhj6sppqovs4YKP4ymnJWzdDjo3uv7aabMDCmt9rX9bTwovyG7CFD1ck7fNQYW",
+            "quoteMint": "ysPp2Bt2j2UQu2tZwtSJz7JxyrmQ8GJcNJE5NyDoS5a",
+            "quoteSymbol": "MUSK4",
+            "spentTokens": 20.616982,
+            "spentValueUsd": 7.227174966403979,
+            "boughtTokens": 216.267852885,
+            "boughtValueUsd": 7.20343097420236,
+            "burnSignature": "7ooZVG9tPkpRzs2WNFcKJ2vsZkmCJkJtwEoy5aDBNGqnwt9tfGczpS3zkfEM9UV9e1gmyxXxrfq2ynMu8m4dWT5",
+            "createdAt": "2026-11-27T16:27:31.465Z"
+          },
+          {
+            "signature": "2R4Rf7ESZCNG2CgdYkKDq9CoFn2Hq2F3ei6TvmZXfnca3qbknkPw3QQmPU18NbkNgKnLT7mZ4xTVfmUmFXGVT4km",
+            "quoteMint": "XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2",
+            "quoteSymbol": "MCDX",
+            "spentTokens": 0.01844205,
+            "spentValueUsd": 5.305806573996097,
+            "boughtTokens": 159.302121878,
+            "boughtValueUsd": 5.306021323485082,
+            "burnSignature": "7ooZVG9tPkpRzs2WNFcKJ2vsZkmCJkJtwEoy5aDBNGqnwt9tfGczpS3zkfEM9UV9e1gmyxXxrfq2ynMu8m4dWT5",
+            "createdAt": "2026-11-27T16:27:31.242Z"
+          },
+          {
+            "signature": "4YRpkWNZAEJrbEPZqBpRXRVyuWmkBLM3cM9imgugX9RYSR9fSs72evnnmckbkjbBCgUBDrkmm34fP3stkNbhos6r",
+            "quoteMint": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
+            "quoteSymbol": "NVDAX",
+            "spentTokens": 0.03671024,
+            "spentValueUsd": 5.449181389868075,
+            "boughtTokens": 164.166477335,
+            "boughtValueUsd": 5.469444629387722,
+            "burnSignature": "pWmbtGJVZT1JAVeMC9AsGDz7mrsg4cAiaw9DS8Tb2dGTym8SDGwcpNaGN2jJC2nCeVPnY9FhPaduVPE5SUUGvQw",
+            "createdAt": "2026-11-27T16:22:34.388Z"
+          },
+          {
+            "signature": "fAQiTEneQgu5kA6frMtRT8nhiGEC372j3M9htMm4h8zrUR6Uw6TpWvWTyHWjqhtMyTxYFmEzZRWR6xDWUyKhAKF",
+            "quoteMint": "So11111111111111111111111111111111111111112",
+            "quoteSymbol": "SOL",
+            "spentTokens": 0.128997489,
+            "spentValueUsd": 9.274132925099568,
+            "boughtTokens": 279.315089141,
+            "boughtValueUsd": 9.305787874656993,
+            "burnSignature": "pWmbtGJVZT1JAVeMC9AsGDz7mrsg4cAiaw9DS8Tb2dGTym8SDGwcpNaGN2jJC2nCeVPnY9FhPaduVPE5SUUGvQw",
+            "createdAt": "2026-11-27T16:22:34.376Z"
           }
         ],
         "page": {
           "limit": 12,
           "order": "desc",
-          "nextCursor": "eyJrIjoiYnV5YmFja3MiLCJvIjoiZGVzYyIsInYiOnsiYXQiOiIyMDI2LTExLTI3IDE2OjAyOjM2LjE0ODQ1OCswMCIsImlkIjoiNWlkQTlQeVpDQ0ZvVUxFNlJrR1BrUnNWeFJTUDR3SE03Z3I0ZHFYNmpvVko4UVI1YlNGQnptaEtabmczc25tOWt2ZDJVNGI2WG90QktnRVZNbWk3QWthWiJ9fQ"
+          "nextCursor": "eyJrIjoiYnV5YmFja3MiLCJvIjoiZGVzYyIsInYiOnsiYXQiOiIyMDI2LTExLTI3IDE2OjIyOjM0LjM3Njc2OCswMCIsImlkIjoiZkFRaVRFbmVRZ3U1a0E2ZnJNdFJUOG5oaUdFQzM3MmozTTlodE1tNGg4enJVUjZVdzZUcFd2V1R5SFdqcWh0TXlUeFlGbUV6WlJXUjZ4RFdVeUtoQUtGIn19"
         }
       }
     },
     "burns": {
       "status": "ok",
-      "fetchedAt": "2026-11-27T16:16:18+00:00",
-      "sourceAsOf": "2026-11-27T16:16:18.569Z",
+      "fetchedAt": "2026-11-27T16:39:49+00:00",
+      "sourceAsOf": "2026-11-27T16:39:49.516Z",
       "url": "https://www.stonkfun.xyz/api/public/v1/tokens/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx/burns?limit=12",
       "data": {
         "mint": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
         "totals": {
           "symbol": "STONK",
-          "amountRaw": "230838103256198874",
-          "amountTokens": 230838103.25619888,
-          "valueUsdAtBurn": 23921311.048678454,
-          "burnCount": 49983,
-          "lastBurnAt": "2026-11-27T16:12:26.614Z"
+          "amountRaw": "230841873618298467",
+          "amountTokens": 230841873.61829847,
+          "valueUsdAtBurn": 23921436.805504173,
+          "burnCount": 49992,
+          "lastBurnAt": "2026-11-27T16:37:34.441Z"
         },
         "burns": [
+          {
+            "signature": "2M6v9RpRFjvqcALRQ1csTwBCtMrhRY1tb5w1VTRJLmCTZ2tL4Kaupx3Ji4NDMPJPM3xMAq1K3Xx24akL8PVLHDmv",
+            "symbol": "STONK",
+            "amountTokens": 854.889103883,
+            "valueUsdAtBurn": 28.621268906956974,
+            "source": "buyback",
+            "burnedAt": "2026-11-27T16:37:34.441Z"
+          },
+          {
+            "signature": "4BsBzLBJSKsYhUYZa2zCQm24kKzRfHB1qKMQZwJyoi6UJahmLdcRTm5URzkHPTedKz7PNkT8TngDv8ZA5JYpTZki",
+            "symbol": "STONK",
+            "amountTokens": 45.600545509,
+            "valueUsdAtBurn": 1.527567178267281,
+            "source": "quote-revenue",
+            "burnedAt": "2026-11-27T16:36:27.603Z"
+          },
+          {
+            "signature": "gnSUjvg5QCz7aoK6GpT4BpXEBoNbr7GLL3nqvT7YHy5n34gyEmCa2EAZ2vHP4mfQa81To3qhD14Y5nmcQ1ssvwm",
+            "symbol": "STONK",
+            "amountTokens": 675.604117908,
+            "valueUsdAtBurn": 22.48815334166945,
+            "source": "buyback",
+            "burnedAt": "2026-11-27T16:32:35.143Z"
+          },
+          {
+            "signature": "3ifSm4YPcoEU85XRW9iX36BYuiTd2fAacxENHiiSvSiXvHRtazVKF1kVYcJapusrJMVooQFzGZrxDTfr6HjyRQtx",
+            "symbol": "STONK",
+            "amountTokens": 32.350819738,
+            "valueUsdAtBurn": 1.076030348954457,
+            "source": "quote-revenue",
+            "burnedAt": "2026-11-27T16:31:25.674Z"
+          },
+          {
+            "signature": "7ooZVG9tPkpRzs2WNFcKJ2vsZkmCJkJtwEoy5aDBNGqnwt9tfGczpS3zkfEM9UV9e1gmyxXxrfq2ynMu8m4dWT5",
+            "symbol": "STONK",
+            "amountTokens": 571.3396426,
+            "valueUsdAtBurn": 19.0301314938518,
+            "source": "buyback",
+            "burnedAt": "2026-11-27T16:27:31.712Z"
+          },
+          {
+            "signature": "2mWQFURHuLZ9SdoUftB6Sez8wSBJFrNuxJKivJNVcXZYYVZMYhsW555mS9SmpskneYvRq6a2E5Q8mT6uY7GshGrQ",
+            "symbol": "STONK",
+            "amountTokens": 30.325685889,
+            "valueUsdAtBurn": 1.0084965410044182,
+            "source": "quote-revenue",
+            "burnedAt": "2026-11-27T16:26:27.292Z"
+          },
+          {
+            "signature": "pWmbtGJVZT1JAVeMC9AsGDz7mrsg4cAiaw9DS8Tb2dGTym8SDGwcpNaGN2jJC2nCeVPnY9FhPaduVPE5SUUGvQw",
+            "symbol": "STONK",
+            "amountTokens": 443.481566476,
+            "valueUsdAtBurn": 14.770757354813275,
+            "source": "buyback",
+            "burnedAt": "2026-11-27T16:22:34.641Z"
+          },
+          {
+            "signature": "ApWYsb9VPz7VD3SVgovo14YXhWkJnWegR2phNVTAuNEF5dBzkLp6YaJ9hW5L3WzTPjpa2C6X3QeydnUb44Xo4TF",
+            "symbol": "STONK",
+            "amountTokens": 1051.829959741,
+            "valueUsdAtBurn": 35.06502692407942,
+            "source": "buyback",
+            "burnedAt": "2026-11-27T16:17:35.539Z"
+          },
+          {
+            "signature": "67bz6iHurUNzSkXdN49WnDLVLxrk4LPPx6hmPmU1435rtPPJyuKmRCVgZq36SbdKAztE7dgnN9bBgGk2AiZZaDLT",
+            "symbol": "STONK",
+            "amountTokens": 64.940657849,
+            "valueUsdAtBurn": 2.169393646434126,
+            "source": "quote-revenue",
+            "burnedAt": "2026-11-27T16:16:27.431Z"
+          },
           {
             "signature": "5kEWKFtskkL8aQhzqgSJy9yWps7M4KnkVJ6jjBg95RboFQXywcvnUfZfvC9qSuRgZXScm3i6H8RiUvKXk8KhNxe",
             "symbol": "STONK",
@@ -2598,303 +2669,231 @@
             "valueUsdAtBurn": 22.540590054636137,
             "source": "buyback",
             "burnedAt": "2026-11-27T16:07:33.220Z"
-          },
-          {
-            "signature": "5sDYphFwjNjRUDgwesZpyKb9kRjvyWdTkSTeLHor3x6UCueMN7hUpARR95DwVR1byQ7eNgAXtnzWwRvULfjSJjfC",
-            "symbol": "STONK",
-            "amountTokens": 653.595924099,
-            "valueUsdAtBurn": 21.72226179995835,
-            "source": "buyback",
-            "burnedAt": "2026-11-27T16:02:36.177Z"
-          },
-          {
-            "signature": "37v2QVvZwdZZyNKJxksyKKq5M4pQhhasecCqmWHpvcZS7H77yFFHN8bWwqnt8naJJtyuRZv7eS3NKdiEkwpcVgRg",
-            "symbol": "STONK",
-            "amountTokens": 616.119979796,
-            "valueUsdAtBurn": 20.409265222897883,
-            "source": "buyback",
-            "burnedAt": "2026-11-27T15:57:19.545Z"
-          },
-          {
-            "signature": "5jDR5VUVw2WKXXApa4QpvGUrqFSyjcCJgpW8CKaZrjU5KXdxwTJ1zxLQL1syxmuWo8YNFhGrEprw7PXzmCUqjAWA",
-            "symbol": "STONK",
-            "amountTokens": 192.165678025,
-            "valueUsdAtBurn": 6.34185711302303,
-            "source": "quote-revenue",
-            "burnedAt": "2026-11-27T15:56:23.606Z"
-          },
-          {
-            "signature": "2pzHjMX6XcXUBkmTizr6nznERyHumt59aZPZAKaTxrqb7Kzg6bAxYwPWWQir2Zm3rr9VRbdvY7dpXdz8KAFodQrm",
-            "symbol": "STONK",
-            "amountTokens": 1666.124553985,
-            "valueUsdAtBurn": 55.22725030053801,
-            "source": "buyback",
-            "burnedAt": "2026-11-27T15:52:31.177Z"
-          },
-          {
-            "signature": "4P6RoUwHLGpoZ6GcMJfvV8J3n5c3fV4CNeGRMMzhpcYHEezvhrtkdnRfkvmZCv3ukRfTofM2HxZC2vaCB9ZkhKt7",
-            "symbol": "STONK",
-            "amountTokens": 38.444081332,
-            "valueUsdAtBurn": 1.2768130885528057,
-            "source": "quote-revenue",
-            "burnedAt": "2026-11-27T15:51:26.970Z"
-          },
-          {
-            "signature": "5DgEp7sp46AK2k6RaeGw5Eu1MeMVVPYokughJCjEaSRky1WVf1NP9VtXi8KpiQ5bB6rRvr7mpvD48cPUDpMtUsiB",
-            "symbol": "STONK",
-            "amountTokens": 365.876320556,
-            "valueUsdAtBurn": 12.156047921109737,
-            "source": "buyback",
-            "burnedAt": "2026-11-27T15:47:22.977Z"
-          },
-          {
-            "signature": "5ydfWf6kLiVwo1Qj8KSqF4D4b3Zw4TYMYJ7GPLwwfTNLJ8SkGpd2XMmAAQsr7khpfgMsyFyXaWLTJoT68Mz96ZKH",
-            "symbol": "STONK",
-            "amountTokens": 106.944172699,
-            "valueUsdAtBurn": 3.557216659085871,
-            "source": "quote-revenue",
-            "burnedAt": "2026-11-27T15:46:22.832Z"
-          },
-          {
-            "signature": "4kuM6qkKou7sbb5FAJtbU22BeEAMnU7aKR2bvBL2z2kX8m9ZKe6fnNzNFnpudKWVRwuLsiGts8jzMNuEoDZA6qqN",
-            "symbol": "STONK",
-            "amountTokens": 1646.666000326,
-            "valueUsdAtBurn": 54.66404443358437,
-            "source": "buyback",
-            "burnedAt": "2026-11-27T15:42:28.096Z"
-          },
-          {
-            "signature": "uP8pFSvCjcFDRGZNCSmhjfpVvRPkB3SVcf5nqbrUe9Pu39omzjQ3eyh6mApR6hA916aYHtBSTDGh3C6U7mAsFrQ",
-            "symbol": "STONK",
-            "amountTokens": 262.044534096,
-            "valueUsdAtBurn": 8.668633277377888,
-            "source": "quote-revenue",
-            "burnedAt": "2026-11-27T15:41:26.612Z"
           }
         ]
       }
     },
     "daily": {
       "status": "ok",
-      "fetchedAt": "2026-11-27T16:16:18+00:00",
-      "sourceAsOf": "2026-11-27T16:16:18.666Z",
+      "fetchedAt": "2026-11-27T16:39:49+00:00",
+      "sourceAsOf": "2026-11-27T16:39:49.649Z",
       "url": "https://www.stonkfun.xyz/api/v2/revenue/daily?limit=100&order=desc",
       "data": {
         "network": "mainnet-beta",
         "days": [
           {
             "date": "2026-11-27",
-            "revenueUsd": 9555.475163630506,
-            "platformPairExcludedUsd": 714.9786624639456,
-            "stonkQuoteRevenueUsd": 616.373280070862,
+            "revenueUsd": 9762.750656178732,
+            "platformPairExcludedUsd": 726.8943196581221,
+            "stonkQuoteRevenueUsd": 623.1136939000254,
             "feeBurnUsd": 14.163333073929998,
-            "feeIncomeUsd": 10284.617159168381,
-            "buybackUsd": 5655.913840440202,
-            "buybackCount": 600,
-            "boughtTokens": 171417.983871713,
-            "burnUsd": 5638.034414041284,
-            "burnTokens": 171417.983871713,
-            "quoteRevenueBurnUsd": 368.47935991268287,
-            "quoteRevenueBurnTokens": 11094.964917506999,
-            "stonkBurnedTokens": 182512.94878921998
+            "feeIncomeUsd": 10503.808308910784,
+            "buybackUsd": 5775.8698651131635,
+            "buybackCount": 616,
+            "boughtTokens": 175015.12826232103,
+            "burnUsd": 5758.009752062657,
+            "burnTokens": 175015.128262321,
+            "quoteRevenueBurnUsd": 374.26084762734314,
+            "quoteRevenueBurnTokens": 11268.182626492,
+            "stonkBurnedTokens": 186283.310888813
           },
           {
             "date": "2026-11-26",
-            "revenueUsd": 15054.62790935618,
-            "platformPairExcludedUsd": 881.3274924556241,
-            "stonkQuoteRevenueUsd": 811.153721363825,
+            "revenueUsd": 15054.627909356186,
+            "platformPairExcludedUsd": 881.3274924556242,
+            "stonkQuoteRevenueUsd": 811.1537213638251,
             "feeBurnUsd": 0,
-            "feeIncomeUsd": 15935.955401811805,
-            "buybackUsd": 9167.64090099305,
+            "feeIncomeUsd": 15935.95540181181,
+            "buybackUsd": 9167.640900993048,
             "buybackCount": 790,
-            "boughtTokens": 291520.19396306184,
+            "boughtTokens": 291520.193963062,
             "burnUsd": 9155.510819799174,
-            "burnTokens": 291520.19396306196,
+            "burnTokens": 291520.193963062,
             "quoteRevenueBurnUsd": 490.7938908235926,
             "quoteRevenueBurnTokens": 15645.49673595,
             "stonkBurnedTokens": 307165.690699012
           },
           {
             "date": "2026-11-25",
-            "revenueUsd": 27318.21712507549,
-            "platformPairExcludedUsd": 1117.5379342476288,
+            "revenueUsd": 27318.21712507548,
+            "platformPairExcludedUsd": 1117.5379342476285,
             "stonkQuoteRevenueUsd": 973.4121979979236,
             "feeBurnUsd": 0.60481998258128,
-            "feeIncomeUsd": 28436.359879305703,
-            "buybackUsd": 16260.496767074213,
+            "feeIncomeUsd": 28436.35987930569,
+            "buybackUsd": 16260.496767074204,
             "buybackCount": 776,
             "boughtTokens": 539475.0696833921,
-            "burnUsd": 16235.594163523072,
-            "burnTokens": 539475.069683392,
+            "burnUsd": 16235.594163523067,
+            "burnTokens": 539475.0696833918,
             "quoteRevenueBurnUsd": 580.4767731254607,
-            "quoteRevenueBurnTokens": 19585.696046691002,
-            "stonkBurnedTokens": 559060.7657300828
+            "quoteRevenueBurnTokens": 19585.696046690995,
+            "stonkBurnedTokens": 559060.7657300829
           },
           {
             "date": "2026-11-24",
             "revenueUsd": 10980.125068520198,
             "platformPairExcludedUsd": 1213.5028193788967,
-            "stonkQuoteRevenueUsd": 1006.0522067700111,
+            "stonkQuoteRevenueUsd": 1006.0522067700114,
             "feeBurnUsd": 6.874120844722141,
             "feeIncomeUsd": 12200.502008743817,
-            "buybackUsd": 6405.440644761838,
+            "buybackUsd": 6405.440644761835,
             "buybackCount": 681,
-            "boughtTokens": 191538.00164525094,
-            "burnUsd": 6404.316782519714,
+            "boughtTokens": 191538.00164525097,
+            "burnUsd": 6404.316782519713,
             "burnTokens": 191538.00164525103,
             "quoteRevenueBurnUsd": 603.5603391047741,
-            "quoteRevenueBurnTokens": 17793.855841193996,
-            "stonkBurnedTokens": 209331.857486445
+            "quoteRevenueBurnTokens": 17793.855841194,
+            "stonkBurnedTokens": 209331.85748644502
           },
           {
             "date": "2026-11-23",
-            "revenueUsd": 22722.970463027188,
-            "platformPairExcludedUsd": 2007.2909996608596,
+            "revenueUsd": 22722.970463027177,
+            "platformPairExcludedUsd": 2007.2909996608598,
             "stonkQuoteRevenueUsd": 1857.75130510266,
-            "feeBurnUsd": 103.27262100548327,
-            "feeIncomeUsd": 24833.53408369353,
-            "buybackUsd": 13735.643737077222,
+            "feeBurnUsd": 103.27262100548332,
+            "feeIncomeUsd": 24833.53408369352,
+            "buybackUsd": 13735.643737077226,
             "buybackCount": 943,
             "boughtTokens": 361719.864501357,
             "burnUsd": 13725.557061729076,
             "burnTokens": 361719.86450135696,
-            "quoteRevenueBurnUsd": 1126.5938107022173,
+            "quoteRevenueBurnUsd": 1126.5938107022175,
             "quoteRevenueBurnTokens": 29949.720945946003,
             "stonkBurnedTokens": 391669.585447303
           },
           {
             "date": "2026-11-22",
-            "revenueUsd": 20814.608144242626,
-            "platformPairExcludedUsd": 1670.3678465590071,
-            "stonkQuoteRevenueUsd": 1563.3895805097607,
+            "revenueUsd": 20814.608144242637,
+            "platformPairExcludedUsd": 1670.3678465590074,
+            "stonkQuoteRevenueUsd": 1563.389580509761,
             "feeBurnUsd": 0,
-            "feeIncomeUsd": 22484.97599080163,
-            "buybackUsd": 12461.238972622188,
+            "feeIncomeUsd": 22484.975990801642,
+            "buybackUsd": 12461.238972622192,
             "buybackCount": 816,
-            "boughtTokens": 355424.02292340586,
-            "burnUsd": 12428.835026470719,
-            "burnTokens": 355424.0229234059,
+            "boughtTokens": 355424.022923406,
+            "burnUsd": 12428.835026470717,
+            "burnTokens": 355424.02292340604,
             "quoteRevenueBurnUsd": 925.6495550584862,
             "quoteRevenueBurnTokens": 26670.516101164998,
-            "stonkBurnedTokens": 382094.53902457096
+            "stonkBurnedTokens": 382094.539024571
           },
           {
             "date": "2026-11-21",
-            "revenueUsd": 24599.39792118164,
+            "revenueUsd": 24599.39792118163,
             "platformPairExcludedUsd": 1515.5662323071142,
-            "stonkQuoteRevenueUsd": 1244.1965902615434,
+            "stonkQuoteRevenueUsd": 1244.1965902615436,
             "feeBurnUsd": 0,
-            "feeIncomeUsd": 26114.964153488756,
-            "buybackUsd": 15022.552055921671,
+            "feeIncomeUsd": 26114.964153488745,
+            "buybackUsd": 15022.552055921675,
             "buybackCount": 953,
-            "boughtTokens": 448236.4475442101,
+            "boughtTokens": 448236.44754421,
             "burnUsd": 14991.81758177967,
-            "burnTokens": 448236.44754421,
+            "burnTokens": 448236.44754420995,
             "quoteRevenueBurnUsd": 746.3925426498585,
             "quoteRevenueBurnTokens": 21831.345095947003,
             "stonkBurnedTokens": 470067.79264015704
           },
           {
             "date": "2026-11-20",
-            "revenueUsd": 20377.416539415877,
-            "platformPairExcludedUsd": 1699.4875083810239,
-            "stonkQuoteRevenueUsd": 1356.3626925498445,
+            "revenueUsd": 20377.41653941587,
+            "platformPairExcludedUsd": 1699.487508381024,
+            "stonkQuoteRevenueUsd": 1356.3626925498447,
             "feeBurnUsd": 0,
-            "feeIncomeUsd": 22076.904047796903,
-            "buybackUsd": 11970.332030179907,
+            "feeIncomeUsd": 22076.904047796896,
+            "buybackUsd": 11970.332030179905,
             "buybackCount": 889,
             "boughtTokens": 363306.12409510603,
             "burnUsd": 11955.73121766991,
-            "burnTokens": 363306.1240951061,
-            "quoteRevenueBurnUsd": 815.912683860979,
+            "burnTokens": 363306.12409510603,
+            "quoteRevenueBurnUsd": 815.9126838609791,
             "quoteRevenueBurnTokens": 24416.395451924996,
-            "stonkBurnedTokens": 387722.51954703114
+            "stonkBurnedTokens": 387722.5195470311
           },
           {
             "date": "2026-11-19",
             "revenueUsd": 27940.963071002567,
-            "platformPairExcludedUsd": 2160.1682214018883,
-            "stonkQuoteRevenueUsd": 2083.7385756365175,
+            "platformPairExcludedUsd": 2160.168221401889,
+            "stonkQuoteRevenueUsd": 2083.738575636517,
             "feeBurnUsd": 0,
             "feeIncomeUsd": 30101.131292404454,
-            "buybackUsd": 16714.761975747337,
+            "buybackUsd": 16714.76197574733,
             "buybackCount": 1205,
-            "boughtTokens": 414806.96289904276,
-            "burnUsd": 16680.41441832407,
-            "burnTokens": 414806.96289904293,
+            "boughtTokens": 414806.9628990429,
+            "burnUsd": 16680.414418324075,
+            "burnTokens": 414806.962899043,
             "quoteRevenueBurnUsd": 1246.6124122829042,
             "quoteRevenueBurnTokens": 30733.760249259,
-            "stonkBurnedTokens": 445540.72314830194
+            "stonkBurnedTokens": 445540.723148302
           },
           {
             "date": "2026-11-18",
-            "revenueUsd": 41610.958117532966,
-            "platformPairExcludedUsd": 3049.763589894145,
-            "stonkQuoteRevenueUsd": 3017.3485694706187,
+            "revenueUsd": 41610.95811753296,
+            "platformPairExcludedUsd": 3049.7635898941453,
+            "stonkQuoteRevenueUsd": 3017.3485694706196,
             "feeBurnUsd": 5.541896076420626,
-            "feeIncomeUsd": 44666.26360350353,
-            "buybackUsd": 25040.290729406523,
+            "feeIncomeUsd": 44666.263603503525,
+            "buybackUsd": 25040.290729406534,
             "buybackCount": 1355,
-            "boughtTokens": 575816.0800394247,
+            "boughtTokens": 575816.0800394246,
             "burnUsd": 24944.416135941276,
-            "burnTokens": 575816.080039425,
-            "quoteRevenueBurnUsd": 1813.09399767782,
+            "burnTokens": 575816.0800394249,
+            "quoteRevenueBurnUsd": 1813.0939976778204,
             "quoteRevenueBurnTokens": 41296.560481217995,
             "stonkBurnedTokens": 617112.640520643
           },
           {
             "date": "2026-11-17",
-            "revenueUsd": 45340.631367607224,
-            "platformPairExcludedUsd": 3247.970182063924,
-            "stonkQuoteRevenueUsd": 3047.971434234077,
+            "revenueUsd": 45340.63136760721,
+            "platformPairExcludedUsd": 3247.9701820639248,
+            "stonkQuoteRevenueUsd": 3047.9714342340776,
             "feeBurnUsd": 0,
-            "feeIncomeUsd": 48588.60154967115,
-            "buybackUsd": 27225.639866198784,
+            "feeIncomeUsd": 48588.60154967113,
+            "buybackUsd": 27225.63986619878,
             "buybackCount": 1465,
             "boughtTokens": 621537.1114056802,
-            "burnUsd": 27142.379285305324,
-            "burnTokens": 621537.1114056798,
+            "burnUsd": 27142.37928530533,
+            "burnTokens": 621537.11140568,
             "quoteRevenueBurnUsd": 1826.288390333607,
-            "quoteRevenueBurnTokens": 41526.15423130799,
+            "quoteRevenueBurnTokens": 41526.154231308,
             "stonkBurnedTokens": 663063.265636988
           },
           {
             "date": "2026-11-16",
-            "revenueUsd": 37652.96437181012,
+            "revenueUsd": 37652.9643718101,
             "platformPairExcludedUsd": 1357.3550191076909,
-            "stonkQuoteRevenueUsd": 1215.140837997574,
+            "stonkQuoteRevenueUsd": 1215.1408379975737,
             "feeBurnUsd": 0,
-            "feeIncomeUsd": 39010.319390917815,
+            "feeIncomeUsd": 39010.31939091779,
             "buybackUsd": 22529.74268673647,
             "buybackCount": 1157,
             "boughtTokens": 543309.0489036,
             "burnUsd": 22445.170054779024,
-            "burnTokens": 543309.0489036,
+            "burnTokens": 543309.0489035998,
             "quoteRevenueBurnUsd": 727.855982265834,
-            "quoteRevenueBurnTokens": 17645.292365033998,
+            "quoteRevenueBurnTokens": 17645.292365034,
             "stonkBurnedTokens": 560954.341268634
           },
           {
             "date": "2026-11-15",
             "revenueUsd": 25887.69684003623,
-            "platformPairExcludedUsd": 1873.82337234465,
-            "stonkQuoteRevenueUsd": 1642.563457383956,
+            "platformPairExcludedUsd": 1873.8233723446494,
+            "stonkQuoteRevenueUsd": 1642.5634573839554,
             "feeBurnUsd": 5.836781614190686,
             "feeIncomeUsd": 27767.356993995072,
-            "buybackUsd": 15549.097167986532,
+            "buybackUsd": 15549.097167986536,
             "buybackCount": 1010,
-            "boughtTokens": 365515.004994281,
-            "burnUsd": 15503.49736644627,
+            "boughtTokens": 365515.00499428104,
+            "burnUsd": 15503.497366446269,
             "burnTokens": 365515.004994281,
             "quoteRevenueBurnUsd": 989.5552568620174,
-            "quoteRevenueBurnTokens": 23310.330710697002,
+            "quoteRevenueBurnTokens": 23310.330710697,
             "stonkBurnedTokens": 388825.335704978
           },
           {
             "date": "2026-11-14",
             "revenueUsd": 25456.04827743647,
             "platformPairExcludedUsd": 2241.102690625251,
-            "stonkQuoteRevenueUsd": 2046.7986273942106,
+            "stonkQuoteRevenueUsd": 2046.7986273942113,
             "feeBurnUsd": 10.949971241575527,
             "feeIncomeUsd": 27708.100939303295,
             "buybackUsd": 15240.376921745832,
@@ -2904,100 +2903,100 @@
             "burnTokens": 366207.334992269,
             "quoteRevenueBurnUsd": 1229.3578774458852,
             "quoteRevenueBurnTokens": 29550.435950684005,
-            "stonkBurnedTokens": 395757.770942953
+            "stonkBurnedTokens": 395757.77094295295
           },
           {
             "date": "2026-11-13",
-            "revenueUsd": 36544.840037463546,
+            "revenueUsd": 36544.84003746359,
             "platformPairExcludedUsd": 4677.475950626664,
             "stonkQuoteRevenueUsd": 4432.687629251876,
             "feeBurnUsd": 0,
-            "feeIncomeUsd": 41222.31598809021,
-            "buybackUsd": 22053.102427958394,
+            "feeIncomeUsd": 41222.31598809025,
+            "buybackUsd": 22053.102427958387,
             "buybackCount": 1095,
-            "boughtTokens": 475464.0862418051,
+            "boughtTokens": 475464.08624180505,
             "burnUsd": 21986.222427614157,
-            "burnTokens": 475464.0862418051,
-            "quoteRevenueBurnUsd": 2659.343847335345,
-            "quoteRevenueBurnTokens": 56666.97486404698,
-            "stonkBurnedTokens": 532131.0611058522
+            "burnTokens": 475464.08624180505,
+            "quoteRevenueBurnUsd": 2659.3438473353444,
+            "quoteRevenueBurnTokens": 56666.97486404699,
+            "stonkBurnedTokens": 532131.061105852
           },
           {
             "date": "2026-11-12",
             "revenueUsd": 33712.4129909103,
-            "platformPairExcludedUsd": 4727.609168210975,
-            "stonkQuoteRevenueUsd": 3907.237872307024,
+            "platformPairExcludedUsd": 4727.609168210976,
+            "stonkQuoteRevenueUsd": 3907.2378723070237,
             "feeBurnUsd": 26.14282153481456,
             "feeIncomeUsd": 38466.16498065609,
             "buybackUsd": 20284.718262850438,
             "buybackCount": 1012,
-            "boughtTokens": 466711.65880642104,
+            "boughtTokens": 466711.65880642115,
             "burnUsd": 20104.849966395224,
-            "burnTokens": 466711.65880642086,
-            "quoteRevenueBurnUsd": 2358.8880603645193,
-            "quoteRevenueBurnTokens": 53899.929433970996,
-            "stonkBurnedTokens": 520611.5882403919
+            "burnTokens": 466711.658806421,
+            "quoteRevenueBurnUsd": 2358.88806036452,
+            "quoteRevenueBurnTokens": 53899.92943397099,
+            "stonkBurnedTokens": 520611.588240392
           },
           {
             "date": "2026-11-11",
-            "revenueUsd": 44574.63109888097,
-            "platformPairExcludedUsd": 6447.3264861902135,
-            "stonkQuoteRevenueUsd": 6156.828855340745,
+            "revenueUsd": 44574.63109888094,
+            "platformPairExcludedUsd": 6447.326486190216,
+            "stonkQuoteRevenueUsd": 6156.8288553407465,
             "feeBurnUsd": 0,
-            "feeIncomeUsd": 51021.957585071184,
-            "buybackUsd": 26558.526934220008,
+            "feeIncomeUsd": 51021.957585071155,
+            "buybackUsd": 26558.526934220015,
             "buybackCount": 1240,
             "boughtTokens": 531465.316058733,
-            "burnUsd": 26427.88383912083,
+            "burnUsd": 26427.883839120826,
             "burnTokens": 531465.316058733,
-            "quoteRevenueBurnUsd": 3712.008975661798,
+            "quoteRevenueBurnUsd": 3712.008975661799,
             "quoteRevenueBurnTokens": 74834.98562618301,
-            "stonkBurnedTokens": 606300.3016849161
+            "stonkBurnedTokens": 606300.301684916
           },
           {
             "date": "2026-11-10",
-            "revenueUsd": 35146.59564911665,
-            "platformPairExcludedUsd": 6907.307977736308,
-            "stonkQuoteRevenueUsd": 6820.596398315567,
+            "revenueUsd": 35146.59564911664,
+            "platformPairExcludedUsd": 6907.307977736307,
+            "stonkQuoteRevenueUsd": 6820.596398315565,
             "feeBurnUsd": 13.764392653837232,
-            "feeIncomeUsd": 42067.6680195068,
+            "feeIncomeUsd": 42067.66801950679,
             "buybackUsd": 21215.55878487425,
             "buybackCount": 1047,
-            "boughtTokens": 420172.1012175851,
-            "burnUsd": 20957.2894176008,
-            "burnTokens": 420172.101217585,
+            "boughtTokens": 420172.101217585,
+            "burnUsd": 20957.289417600798,
+            "burnTokens": 420172.1012175849,
             "quoteRevenueBurnUsd": 4087.057312636168,
-            "quoteRevenueBurnTokens": 81651.07076656201,
-            "stonkBurnedTokens": 501823.171984147
+            "quoteRevenueBurnTokens": 81651.070766562,
+            "stonkBurnedTokens": 501823.17198414693
           },
           {
             "date": "2026-11-09",
-            "revenueUsd": 30241.331408311948,
-            "platformPairExcludedUsd": 7949.769085638412,
-            "stonkQuoteRevenueUsd": 7216.747727795663,
+            "revenueUsd": 30241.331408311966,
+            "platformPairExcludedUsd": 7949.7690856384115,
+            "stonkQuoteRevenueUsd": 7216.747727795664,
             "feeBurnUsd": 161.6343939126429,
-            "feeIncomeUsd": 38352.73488786301,
-            "buybackUsd": 17944.209647096835,
+            "feeIncomeUsd": 38352.73488786302,
+            "buybackUsd": 17944.20964709683,
             "buybackCount": 1313,
-            "boughtTokens": 342196.3866149871,
+            "boughtTokens": 342196.38661498704,
             "burnUsd": 17699.194690236727,
-            "burnTokens": 342196.3866149869,
-            "quoteRevenueBurnUsd": 4308.635534092415,
-            "quoteRevenueBurnTokens": 83299.186725127,
+            "burnTokens": 342196.386614987,
+            "quoteRevenueBurnUsd": 4308.635534092416,
+            "quoteRevenueBurnTokens": 83299.18672512702,
             "stonkBurnedTokens": 425495.573340114
           },
           {
             "date": "2026-11-08",
-            "revenueUsd": 24335.010305649404,
-            "platformPairExcludedUsd": 10828.602856724785,
-            "stonkQuoteRevenueUsd": 9457.13612304146,
+            "revenueUsd": 24335.010305649397,
+            "platformPairExcludedUsd": 10828.602856724787,
+            "stonkQuoteRevenueUsd": 9457.136123041462,
             "feeBurnUsd": 0,
-            "feeIncomeUsd": 35163.61316237419,
-            "buybackUsd": 14522.151764633605,
+            "feeIncomeUsd": 35163.61316237418,
+            "buybackUsd": 14522.151764633603,
             "buybackCount": 984,
-            "boughtTokens": 248164.24718124705,
+            "boughtTokens": 248164.24718124702,
             "burnUsd": 14374.049798490802,
-            "burnTokens": 248164.24718124696,
+            "burnTokens": 248164.24718124693,
             "quoteRevenueBurnUsd": 5672.171955277061,
             "quoteRevenueBurnTokens": 96290.74294240601,
             "stonkBurnedTokens": 344454.99012365285
@@ -3005,91 +3004,91 @@
           {
             "date": "2026-11-07",
             "revenueUsd": 28469.36261157631,
-            "platformPairExcludedUsd": 12225.240396884334,
-            "stonkQuoteRevenueUsd": 11083.498541747518,
+            "platformPairExcludedUsd": 12225.240396884335,
+            "stonkQuoteRevenueUsd": 11083.49854174752,
             "feeBurnUsd": 0,
             "feeIncomeUsd": 40694.60300846065,
-            "buybackUsd": 17284.506018663844,
+            "buybackUsd": 17284.50601866385,
             "buybackCount": 1049,
-            "boughtTokens": 201290.51673524297,
+            "boughtTokens": 201290.516735243,
             "burnUsd": 17170.3631861948,
             "burnTokens": 201290.51673524303,
-            "quoteRevenueBurnUsd": 6635.301450341106,
-            "quoteRevenueBurnTokens": 74283.590815251,
-            "stonkBurnedTokens": 275574.1075504941
+            "quoteRevenueBurnUsd": 6635.301450341105,
+            "quoteRevenueBurnTokens": 74283.59081525098,
+            "stonkBurnedTokens": 275574.107550494
           },
           {
             "date": "2026-11-06",
             "revenueUsd": 61747.311659060484,
             "platformPairExcludedUsd": 8070.37901021755,
-            "stonkQuoteRevenueUsd": 7590.409548353189,
+            "stonkQuoteRevenueUsd": 7590.409548353188,
             "feeBurnUsd": 13.389415574998123,
             "feeIncomeUsd": 69831.08008485303,
-            "buybackUsd": 37206.427150934316,
+            "buybackUsd": 37206.42715093432,
             "buybackCount": 1200,
-            "boughtTokens": 347776.7802993669,
+            "boughtTokens": 347776.78029936686,
             "burnUsd": 36688.48036878931,
-            "burnTokens": 347776.78029936703,
+            "burnTokens": 347776.780299367,
             "quoteRevenueBurnUsd": 4565.282072045087,
-            "quoteRevenueBurnTokens": 43095.880582115,
-            "stonkBurnedTokens": 390872.66088148206
+            "quoteRevenueBurnTokens": 43095.880582114994,
+            "stonkBurnedTokens": 390872.66088148195
           },
           {
             "date": "2026-11-05",
-            "revenueUsd": 44141.68729661861,
-            "platformPairExcludedUsd": 11878.823776140212,
-            "stonkQuoteRevenueUsd": 11691.711051245933,
+            "revenueUsd": 44141.687296618606,
+            "platformPairExcludedUsd": 11878.82377614021,
+            "stonkQuoteRevenueUsd": 11691.71105124593,
             "feeBurnUsd": 10.194216749440157,
-            "feeIncomeUsd": 56030.70528950827,
-            "buybackUsd": 25940.668652408218,
+            "feeIncomeUsd": 56030.70528950826,
+            "buybackUsd": 25940.668652408225,
             "buybackCount": 1273,
-            "boughtTokens": 223748.36763506796,
-            "burnUsd": 25561.56009986824,
-            "burnTokens": 223748.36763506796,
+            "boughtTokens": 223748.367635068,
+            "burnUsd": 25561.560099868235,
+            "burnTokens": 223748.367635068,
             "quoteRevenueBurnUsd": 7016.62708365965,
-            "quoteRevenueBurnTokens": 59435.430036050995,
+            "quoteRevenueBurnTokens": 59435.43003605099,
             "stonkBurnedTokens": 283183.797671119
           },
           {
             "date": "2026-11-04",
-            "revenueUsd": 50043.874084150986,
-            "platformPairExcludedUsd": 25295.122574851834,
-            "stonkQuoteRevenueUsd": 24943.134016667493,
+            "revenueUsd": 50043.874084151,
+            "platformPairExcludedUsd": 25295.12257485183,
+            "stonkQuoteRevenueUsd": 24943.1340166675,
             "feeBurnUsd": 42.100082191378334,
-            "feeIncomeUsd": 75381.0967411942,
+            "feeIncomeUsd": 75381.09674119421,
             "buybackUsd": 30403.487042970584,
             "buybackCount": 1486,
             "boughtTokens": 241314.67247310703,
             "burnUsd": 30080.610635216373,
-            "burnTokens": 241314.67247310706,
-            "quoteRevenueBurnUsd": 15007.395353647582,
-            "quoteRevenueBurnTokens": 120580.35858963698,
+            "burnTokens": 241314.67247310703,
+            "quoteRevenueBurnUsd": 15007.39535364758,
+            "quoteRevenueBurnTokens": 120580.35858963699,
             "stonkBurnedTokens": 361895.031062744
           },
           {
             "date": "2026-11-03",
-            "revenueUsd": 80306.28109470087,
-            "platformPairExcludedUsd": 79617.96431280636,
-            "stonkQuoteRevenueUsd": 79057.72781817074,
+            "revenueUsd": 80306.2810947008,
+            "platformPairExcludedUsd": 79617.96431280638,
+            "stonkQuoteRevenueUsd": 79057.72781817077,
             "feeBurnUsd": 0,
-            "feeIncomeUsd": 159924.24540750723,
-            "buybackUsd": 47911.438107867376,
+            "feeIncomeUsd": 159924.24540750717,
+            "buybackUsd": 47911.43810786738,
             "buybackCount": 1540,
             "boughtTokens": 406894.3155869031,
             "burnUsd": 47469.96035800857,
-            "burnTokens": 406894.31558690313,
-            "quoteRevenueBurnUsd": 47460.91982178418,
+            "burnTokens": 406894.315586903,
+            "quoteRevenueBurnUsd": 47460.91982178416,
             "quoteRevenueBurnTokens": 396400.66966184607,
-            "stonkBurnedTokens": 803294.9852487489
+            "stonkBurnedTokens": 803294.9852487491
           },
           {
             "date": "2026-11-02",
-            "revenueUsd": 43525.89818612718,
+            "revenueUsd": 43525.8981861272,
             "platformPairExcludedUsd": 22118.50423549748,
-            "stonkQuoteRevenueUsd": 21890.587715041915,
+            "stonkQuoteRevenueUsd": 21890.58771504191,
             "feeBurnUsd": 8.725021153999442,
-            "feeIncomeUsd": 65653.12744277866,
-            "buybackUsd": 26000.57636461551,
+            "feeIncomeUsd": 65653.12744277867,
+            "buybackUsd": 26000.576364615503,
             "buybackCount": 1335,
             "boughtTokens": 229216.02439483296,
             "burnUsd": 25825.45841149798,
@@ -3100,223 +3099,223 @@
           },
           {
             "date": "2026-11-01",
-            "revenueUsd": 40802.31492371736,
+            "revenueUsd": 40802.31492371733,
             "platformPairExcludedUsd": 3667.5496129285107,
             "stonkQuoteRevenueUsd": 3567.876671856263,
-            "feeBurnUsd": 136.78735803598104,
-            "feeIncomeUsd": 44606.65189468185,
+            "feeBurnUsd": 136.78735803598107,
+            "feeIncomeUsd": 44606.65189468182,
             "buybackUsd": 24514.51844524124,
             "buybackCount": 1696,
-            "boughtTokens": 195285.81395692512,
-            "burnUsd": 24393.40342481463,
+            "boughtTokens": 195285.81395692506,
+            "burnUsd": 24393.403424814634,
             "burnTokens": 195285.81395692498,
-            "quoteRevenueBurnUsd": 2140.7317378000803,
+            "quoteRevenueBurnUsd": 2140.7317378000807,
             "quoteRevenueBurnTokens": 17108.913199337003,
-            "stonkBurnedTokens": 212394.72715626197
+            "stonkBurnedTokens": 212394.7271562619
           },
           {
             "date": "2026-10-31",
-            "revenueUsd": 35659.855735770696,
-            "platformPairExcludedUsd": 5074.290899775103,
-            "stonkQuoteRevenueUsd": 5041.507689449232,
+            "revenueUsd": 35659.8557357707,
+            "platformPairExcludedUsd": 5074.290899775102,
+            "stonkQuoteRevenueUsd": 5041.507689449231,
             "feeBurnUsd": 4.932679163438206,
-            "feeIncomeUsd": 40739.07931470923,
+            "feeIncomeUsd": 40739.07931470924,
             "buybackUsd": 21228.808260340178,
             "buybackCount": 1152,
-            "boughtTokens": 161914.22090537398,
-            "burnUsd": 20991.915659052596,
-            "burnTokens": 161914.22090537404,
-            "quoteRevenueBurnUsd": 3016.2589119233776,
+            "boughtTokens": 161914.220905374,
+            "burnUsd": 20991.915659052604,
+            "burnTokens": 161914.220905374,
+            "quoteRevenueBurnUsd": 3016.258911923378,
             "quoteRevenueBurnTokens": 23422.705387599,
-            "stonkBurnedTokens": 185336.92629297296
+            "stonkBurnedTokens": 185336.926292973
           },
           {
             "date": "2026-10-30",
-            "revenueUsd": 76219.46956076636,
+            "revenueUsd": 76219.4695607663,
             "platformPairExcludedUsd": 8856.008192533634,
-            "stonkQuoteRevenueUsd": 8326.910553759033,
+            "stonkQuoteRevenueUsd": 8326.910553759035,
             "feeBurnUsd": 25.050729916740796,
-            "feeIncomeUsd": 85100.52848321672,
+            "feeIncomeUsd": 85100.52848321667,
             "buybackUsd": 45993.48932918259,
             "buybackCount": 1499,
-            "boughtTokens": 348439.298424325,
-            "burnUsd": 45430.91884770842,
-            "burnTokens": 348439.298424325,
-            "quoteRevenueBurnUsd": 5029.09725057725,
-            "quoteRevenueBurnTokens": 38665.78864856899,
-            "stonkBurnedTokens": 387105.08707289386
+            "boughtTokens": 348439.2984243252,
+            "burnUsd": 45430.918847708424,
+            "burnTokens": 348439.29842432495,
+            "quoteRevenueBurnUsd": 5029.097250577248,
+            "quoteRevenueBurnTokens": 38665.788648568996,
+            "stonkBurnedTokens": 387105.0870728939
           },
           {
             "date": "2026-10-29",
-            "revenueUsd": 166455.49906230616,
+            "revenueUsd": 166455.4990623061,
             "platformPairExcludedUsd": 17570.226801915825,
             "stonkQuoteRevenueUsd": 17270.90737220218,
             "feeBurnUsd": 17.03121005158556,
-            "feeIncomeUsd": 184042.75707427357,
-            "buybackUsd": 103261.4815924101,
+            "feeIncomeUsd": 184042.7570742735,
+            "buybackUsd": 103261.48159241007,
             "buybackCount": 1822,
             "boughtTokens": 705295.8855043898,
-            "burnUsd": 102376.99781641694,
+            "burnUsd": 102376.9978164169,
             "burnTokens": 705295.88550439,
             "quoteRevenueBurnUsd": 10335.178094214207,
-            "quoteRevenueBurnTokens": 71925.221367686,
-            "stonkBurnedTokens": 777221.1068720757
+            "quoteRevenueBurnTokens": 71925.22136768598,
+            "stonkBurnedTokens": 777221.1068720762
           },
           {
             "date": "2026-10-28",
-            "revenueUsd": 120782.25103518859,
-            "platformPairExcludedUsd": 46413.53007495191,
-            "stonkQuoteRevenueUsd": 46044.64428984574,
+            "revenueUsd": 120782.25103518863,
+            "platformPairExcludedUsd": 46413.530074951894,
+            "stonkQuoteRevenueUsd": 46044.644289845746,
             "feeBurnUsd": 0,
-            "feeIncomeUsd": 167195.7811101405,
-            "buybackUsd": 69890.25407593432,
+            "feeIncomeUsd": 167195.78111014052,
+            "buybackUsd": 69890.25407593434,
             "buybackCount": 1856,
-            "boughtTokens": 460132.0869931048,
+            "boughtTokens": 460132.0869931049,
             "burnUsd": 69555.29300692628,
             "burnTokens": 460132.08699310495,
             "quoteRevenueBurnUsd": 27631.49775996727,
-            "quoteRevenueBurnTokens": 181093.13457953295,
+            "quoteRevenueBurnTokens": 181093.134579533,
             "stonkBurnedTokens": 641225.2215726378
           },
           {
             "date": "2026-10-27",
             "revenueUsd": 157505.20753387563,
-            "platformPairExcludedUsd": 44626.67007553633,
+            "platformPairExcludedUsd": 44626.67007553632,
             "stonkQuoteRevenueUsd": 44158.67147865203,
             "feeBurnUsd": 0,
             "feeIncomeUsd": 202131.87760941195,
             "buybackUsd": 94219.75147979538,
             "buybackCount": 1748,
-            "boughtTokens": 680608.2476235627,
+            "boughtTokens": 680608.2476235629,
             "burnUsd": 94059.97357902519,
-            "burnTokens": 680608.247623563,
-            "quoteRevenueBurnUsd": 26486.64404255082,
-            "quoteRevenueBurnTokens": 196727.38866049,
+            "burnTokens": 680608.2476235629,
+            "quoteRevenueBurnUsd": 26486.644042550826,
+            "quoteRevenueBurnTokens": 196727.38866048993,
             "stonkBurnedTokens": 877335.6362840531
           },
           {
             "date": "2026-10-26",
-            "revenueUsd": 102603.8772840636,
-            "platformPairExcludedUsd": 48559.2164224763,
-            "stonkQuoteRevenueUsd": 48275.33933726058,
-            "feeBurnUsd": 30.436912497225382,
-            "feeIncomeUsd": 151193.5306190371,
+            "revenueUsd": 102603.87728406364,
+            "platformPairExcludedUsd": 48559.21642247629,
+            "stonkQuoteRevenueUsd": 48275.339337260564,
+            "feeBurnUsd": 30.436912497225386,
+            "feeIncomeUsd": 151193.53061903713,
             "buybackUsd": 61169.661350238304,
             "buybackCount": 1564,
-            "boughtTokens": 471865.92454436084,
-            "burnUsd": 60847.049414245994,
-            "burnTokens": 471865.92454436095,
-            "quoteRevenueBurnUsd": 28984.960276653135,
-            "quoteRevenueBurnTokens": 220814.14001217505,
-            "stonkBurnedTokens": 692680.0645565359
+            "boughtTokens": 471865.9245443607,
+            "burnUsd": 60847.04941424599,
+            "burnTokens": 471865.92454436107,
+            "quoteRevenueBurnUsd": 28984.960276653124,
+            "quoteRevenueBurnTokens": 220814.14001217496,
+            "stonkBurnedTokens": 692680.0645565358
           },
           {
             "date": "2026-10-25",
-            "revenueUsd": 115004.822440037,
-            "platformPairExcludedUsd": 83959.82019090095,
+            "revenueUsd": 115004.82244003724,
+            "platformPairExcludedUsd": 83959.82019090094,
             "stonkQuoteRevenueUsd": 83424.62832363683,
             "feeBurnUsd": 26.86050159359943,
-            "feeIncomeUsd": 198991.50313253154,
+            "feeIncomeUsd": 198991.50313253177,
             "buybackUsd": 69449.0525806247,
             "buybackCount": 1613,
             "boughtTokens": 557919.4754359669,
-            "burnUsd": 69195.08288566668,
-            "burnTokens": 557919.475435967,
-            "quoteRevenueBurnUsd": 50989.576304163886,
-            "quoteRevenueBurnTokens": 414427.0256724028,
-            "stonkBurnedTokens": 972346.50110837
+            "burnUsd": 69195.08288566669,
+            "burnTokens": 557919.4754359669,
+            "quoteRevenueBurnUsd": 50989.57630416387,
+            "quoteRevenueBurnTokens": 414427.02567240305,
+            "stonkBurnedTokens": 972346.5011083701
           },
           {
             "date": "2026-10-24",
-            "revenueUsd": 47056.1455144722,
-            "platformPairExcludedUsd": 14874.252615363688,
-            "stonkQuoteRevenueUsd": 14243.205209516607,
+            "revenueUsd": 47056.14551447221,
+            "platformPairExcludedUsd": 14874.252615363683,
+            "stonkQuoteRevenueUsd": 14243.205209516604,
             "feeBurnUsd": 19.011042707900447,
-            "feeIncomeUsd": 61949.40917254378,
-            "buybackUsd": 27591.72636064956,
+            "feeIncomeUsd": 61949.4091725438,
+            "buybackUsd": 27591.726360649576,
             "buybackCount": 1642,
-            "boughtTokens": 249655.41448462798,
+            "boughtTokens": 249655.414484628,
             "burnUsd": 27554.13137982571,
             "burnTokens": 249655.414484628,
-            "quoteRevenueBurnUsd": 7642.696786405355,
-            "quoteRevenueBurnTokens": 69521.11350748202,
+            "quoteRevenueBurnUsd": 7642.696786405358,
+            "quoteRevenueBurnTokens": 69521.11350748199,
             "stonkBurnedTokens": 319176.52799211
           },
           {
             "date": "2026-10-23",
-            "revenueUsd": 160292.8613500575,
+            "revenueUsd": 160292.86135005736,
             "platformPairExcludedUsd": 9938.434529936361,
-            "stonkQuoteRevenueUsd": 9703.150780946731,
+            "stonkQuoteRevenueUsd": 9703.150780946733,
             "feeBurnUsd": 41.40102367495265,
-            "feeIncomeUsd": 170272.6969036688,
-            "buybackUsd": 96171.2643998964,
+            "feeIncomeUsd": 170272.69690366866,
+            "buybackUsd": 96171.26439989636,
             "buybackCount": 4426,
-            "boughtTokens": 787697.6022198246,
+            "boughtTokens": 787697.6022198247,
             "burnUsd": 95851.60436365523,
-            "burnTokens": 787697.602219825,
-            "quoteRevenueBurnUsd": 5924.9436588848475,
-            "quoteRevenueBurnTokens": 49232.81559424101,
+            "burnTokens": 787697.6022198249,
+            "quoteRevenueBurnUsd": 5924.943658884847,
+            "quoteRevenueBurnTokens": 49232.815594241,
             "stonkBurnedTokens": 836930.4178140659
           },
           {
             "date": "2026-10-22",
-            "revenueUsd": 137928.4582840403,
-            "platformPairExcludedUsd": 28645.430102076258,
+            "revenueUsd": 137928.45828404027,
+            "platformPairExcludedUsd": 28645.430102076247,
             "stonkQuoteRevenueUsd": 28322.110058926235,
             "feeBurnUsd": 5.081897583941465,
-            "feeIncomeUsd": 166578.9702837005,
-            "buybackUsd": 84886.83536122338,
+            "feeIncomeUsd": 166578.97028370044,
+            "buybackUsd": 84886.83536122335,
             "buybackCount": 3519,
-            "boughtTokens": 743563.7165127851,
-            "burnUsd": 84550.73604230364,
+            "boughtTokens": 743563.7165127854,
+            "burnUsd": 84550.73604230366,
             "burnTokens": 743563.716512785,
-            "quoteRevenueBurnUsd": 16897.22048725754,
-            "quoteRevenueBurnTokens": 149507.84818592,
+            "quoteRevenueBurnUsd": 16897.220487257542,
+            "quoteRevenueBurnTokens": 149507.84818591998,
             "stonkBurnedTokens": 893071.5646987049
           },
           {
             "date": "2026-10-21",
-            "revenueUsd": 133731.81249652902,
-            "platformPairExcludedUsd": 4349.27878026292,
-            "stonkQuoteRevenueUsd": 3949.0903704278676,
+            "revenueUsd": 133731.81249652908,
+            "platformPairExcludedUsd": 4349.278780262921,
+            "stonkQuoteRevenueUsd": 3949.090370427868,
             "feeBurnUsd": 0,
-            "feeIncomeUsd": 138081.09127679194,
-            "buybackUsd": 78566.5186995776,
+            "feeIncomeUsd": 138081.091276792,
+            "buybackUsd": 78566.51869957757,
             "buybackCount": 3175,
             "boughtTokens": 600783.378498526,
             "burnUsd": 78156.54414671918,
             "burnTokens": 600783.378498526,
             "quoteRevenueBurnUsd": 2388.184316260669,
             "quoteRevenueBurnTokens": 18629.232991958,
-            "stonkBurnedTokens": 619412.6114904841
+            "stonkBurnedTokens": 619412.611490484
           },
           {
             "date": "2026-10-20",
-            "revenueUsd": 164124.02971042288,
-            "platformPairExcludedUsd": 3553.399917971323,
-            "stonkQuoteRevenueUsd": 2967.4592620137137,
+            "revenueUsd": 164124.02971042294,
+            "platformPairExcludedUsd": 3553.3999179713232,
+            "stonkQuoteRevenueUsd": 2967.459262013714,
             "feeBurnUsd": 22.080106053450027,
-            "feeIncomeUsd": 167699.50973444764,
-            "buybackUsd": 97974.16928145985,
+            "feeIncomeUsd": 167699.5097344477,
+            "buybackUsd": 97974.16928145988,
             "buybackCount": 3066,
             "boughtTokens": 817294.7805662791,
-            "burnUsd": 97469.99303147673,
+            "burnUsd": 97469.99303147676,
             "burnTokens": 817294.7805662791,
-            "quoteRevenueBurnUsd": 1765.7401616390794,
-            "quoteRevenueBurnTokens": 15370.699093203002,
-            "stonkBurnedTokens": 832665.479659482
+            "quoteRevenueBurnUsd": 1765.7401616390796,
+            "quoteRevenueBurnTokens": 15370.699093203,
+            "stonkBurnedTokens": 832665.4796594821
           },
           {
             "date": "2026-10-19",
-            "revenueUsd": 175901.85307179345,
+            "revenueUsd": 175901.8530717934,
             "platformPairExcludedUsd": 3350.240588355427,
-            "stonkQuoteRevenueUsd": 2899.7805348483316,
+            "stonkQuoteRevenueUsd": 2899.7805348483307,
             "feeBurnUsd": 6.425442080030938,
-            "feeIncomeUsd": 179258.51910222892,
-            "buybackUsd": 105264.72792805747,
+            "feeIncomeUsd": 179258.51910222886,
+            "buybackUsd": 105264.72792805759,
             "buybackCount": 2898,
-            "boughtTokens": 966213.6132213811,
-            "burnUsd": 104981.80344436223,
+            "boughtTokens": 966213.6132213813,
+            "burnUsd": 104981.80344436222,
             "burnTokens": 966213.6132213811,
             "quoteRevenueBurnUsd": 1752.4396471185114,
             "quoteRevenueBurnTokens": 16164.473468610995,
@@ -3324,16 +3323,16 @@
           },
           {
             "date": "2026-10-18",
-            "revenueUsd": 85850.28361551517,
+            "revenueUsd": 85850.28361551516,
             "platformPairExcludedUsd": 6385.728977905512,
-            "stonkQuoteRevenueUsd": 5977.190157959845,
+            "stonkQuoteRevenueUsd": 5977.190157959843,
             "feeBurnUsd": 17.790263354504738,
-            "feeIncomeUsd": 92253.80285677519,
-            "buybackUsd": 51650.39417881346,
+            "feeIncomeUsd": 92253.80285677518,
+            "buybackUsd": 51650.39417881343,
             "buybackCount": 2110,
             "boughtTokens": 532121.6844341371,
             "burnUsd": 51428.62555672572,
-            "burnTokens": 532121.6844341368,
+            "burnTokens": 532121.684434137,
             "quoteRevenueBurnUsd": 3584.777062914507,
             "quoteRevenueBurnTokens": 36915.889794069,
             "stonkBurnedTokens": 569037.5742282058
@@ -3341,30 +3340,30 @@
           {
             "date": "2026-10-17",
             "revenueUsd": 107650.50269367128,
-            "platformPairExcludedUsd": 1823.2734934195948,
+            "platformPairExcludedUsd": 1823.2734934195946,
             "stonkQuoteRevenueUsd": 1595.3747403724635,
             "feeBurnUsd": 20.07977879414451,
             "feeIncomeUsd": 109493.85596588501,
-            "buybackUsd": 64379.48552644171,
+            "buybackUsd": 64379.485526441706,
             "buybackCount": 2339,
-            "boughtTokens": 593098.4574456584,
-            "burnUsd": 64110.403395287096,
-            "burnTokens": 593098.4574456579,
-            "quoteRevenueBurnUsd": 953.9285453958094,
-            "quoteRevenueBurnTokens": 8826.765789260999,
-            "stonkBurnedTokens": 601925.2232349188
+            "boughtTokens": 593098.4574456583,
+            "burnUsd": 64110.40339528707,
+            "burnTokens": 593098.4574456582,
+            "quoteRevenueBurnUsd": 953.9285453958091,
+            "quoteRevenueBurnTokens": 8826.765789261,
+            "stonkBurnedTokens": 601925.2232349191
           },
           {
             "date": "2026-10-16",
-            "revenueUsd": 187848.30191389198,
+            "revenueUsd": 187848.3019138921,
             "platformPairExcludedUsd": 5500.60865874902,
             "stonkQuoteRevenueUsd": 5074.942125166423,
             "feeBurnUsd": 47.2552718647686,
-            "feeIncomeUsd": 193396.16584450577,
-            "buybackUsd": 113106.17113608081,
+            "feeIncomeUsd": 193396.1658445059,
+            "buybackUsd": 113106.17113608087,
             "buybackCount": 2912,
-            "boughtTokens": 976597.5300081427,
-            "burnUsd": 113547.86559786994,
+            "boughtTokens": 976597.530008143,
+            "burnUsd": 113547.86559786995,
             "burnTokens": 976597.5300081432,
             "quoteRevenueBurnUsd": 3044.6424564545478,
             "quoteRevenueBurnTokens": 26031.022687481003,
@@ -3377,44 +3376,44 @@
             "stonkQuoteRevenueUsd": 9249.844861774647,
             "feeBurnUsd": 0,
             "feeIncomeUsd": 169123.6098464784,
-            "buybackUsd": 94628.93661514315,
+            "buybackUsd": 94628.93661514313,
             "buybackCount": 2762,
-            "boughtTokens": 829307.0337523592,
-            "burnUsd": 93877.13033730484,
+            "boughtTokens": 829307.0337523594,
+            "burnUsd": 93877.13033730487,
             "burnTokens": 829307.033752359,
-            "quoteRevenueBurnUsd": 5518.474983910853,
+            "quoteRevenueBurnUsd": 5518.474983910852,
             "quoteRevenueBurnTokens": 47421.786155917,
             "stonkBurnedTokens": 876728.819908276
           },
           {
             "date": "2026-10-14",
-            "revenueUsd": 82489.12533439201,
-            "platformPairExcludedUsd": 3161.1689582124764,
-            "stonkQuoteRevenueUsd": 2711.8310615319488,
+            "revenueUsd": 82489.12533439198,
+            "platformPairExcludedUsd": 3161.168958212476,
+            "stonkQuoteRevenueUsd": 2711.8310615319483,
             "feeBurnUsd": 8.567190521292675,
-            "feeIncomeUsd": 85658.86148312579,
+            "feeIncomeUsd": 85658.86148312576,
             "buybackUsd": 49624.61798620223,
             "buybackCount": 2901,
             "boughtTokens": 417551.0826480192,
-            "burnUsd": 49433.856335242606,
-            "burnTokens": 417551.082648019,
-            "quoteRevenueBurnUsd": 1632.0025104358465,
+            "burnUsd": 49433.8563352426,
+            "burnTokens": 417551.0826480189,
+            "quoteRevenueBurnUsd": 1632.0025104358467,
             "quoteRevenueBurnTokens": 13671.256983477999,
-            "stonkBurnedTokens": 431222.33963149705
+            "stonkBurnedTokens": 431222.3396314969
           },
           {
             "date": "2026-10-13",
-            "revenueUsd": 120996.5768003597,
-            "platformPairExcludedUsd": 4128.606869885657,
+            "revenueUsd": 120996.57680035966,
+            "platformPairExcludedUsd": 4128.606869885659,
             "stonkQuoteRevenueUsd": 3640.819675057582,
             "feeBurnUsd": 59.84112806570433,
-            "feeIncomeUsd": 125185.02479831106,
-            "buybackUsd": 73457.94124755533,
+            "feeIncomeUsd": 125185.02479831102,
+            "buybackUsd": 73457.94124755531,
             "buybackCount": 3134,
-            "boughtTokens": 594084.618384303,
-            "burnUsd": 73195.59530650511,
+            "boughtTokens": 594084.6183843032,
+            "burnUsd": 73195.5953065051,
             "burnTokens": 594084.6183843028,
-            "quoteRevenueBurnUsd": 2179.214508852944,
+            "quoteRevenueBurnUsd": 2179.2145088529437,
             "quoteRevenueBurnTokens": 17699.952656302,
             "stonkBurnedTokens": 611784.5710406047
           },
@@ -3425,14 +3424,14 @@
             "stonkQuoteRevenueUsd": 5275.196182163337,
             "feeBurnUsd": 0,
             "feeIncomeUsd": 225378.64614691757,
-            "buybackUsd": 130099.63768343849,
+            "buybackUsd": 130099.63768343846,
             "buybackCount": 3182,
-            "boughtTokens": 872411.284276962,
-            "burnUsd": 129491.81416396734,
-            "burnTokens": 872411.2842769618,
-            "quoteRevenueBurnUsd": 3163.743996998238,
+            "boughtTokens": 872411.2842769617,
+            "burnUsd": 129491.8141639673,
+            "burnTokens": 872411.2842769622,
+            "quoteRevenueBurnUsd": 3163.743996998239,
             "quoteRevenueBurnTokens": 21440.542512179,
-            "stonkBurnedTokens": 893851.826789141
+            "stonkBurnedTokens": 893851.8267891412
           },
           {
             "date": "2026-10-11",
@@ -3441,490 +3440,490 @@
             "stonkQuoteRevenueUsd": 5809.2516648738865,
             "feeBurnUsd": 0,
             "feeIncomeUsd": 152933.4756100669,
-            "buybackUsd": 88161.80863211521,
+            "buybackUsd": 88161.80863211527,
             "buybackCount": 3008,
             "boughtTokens": 613774.1360400621,
             "burnUsd": 87859.62783211513,
             "burnTokens": 613774.1360400621,
             "quoteRevenueBurnUsd": 3487.3832282498643,
             "quoteRevenueBurnTokens": 24366.74987418,
-            "stonkBurnedTokens": 638140.8859142421
+            "stonkBurnedTokens": 638140.885914242
           },
           {
             "date": "2026-10-10",
-            "revenueUsd": 140598.8271268849,
-            "platformPairExcludedUsd": 4678.1043148020335,
+            "revenueUsd": 140598.82712688486,
+            "platformPairExcludedUsd": 4678.104314802033,
             "stonkQuoteRevenueUsd": 4277.473735553639,
             "feeBurnUsd": 26.956242402936137,
-            "feeIncomeUsd": 145303.88768408986,
-            "buybackUsd": 84189.51825220144,
+            "feeIncomeUsd": 145303.88768408983,
+            "buybackUsd": 84189.51825220141,
             "buybackCount": 3049,
             "boughtTokens": 610835.0932428084,
             "burnUsd": 83936.17679676854,
-            "burnTokens": 610835.093242808,
+            "burnTokens": 610835.0932428079,
             "quoteRevenueBurnUsd": 2568.529893820037,
             "quoteRevenueBurnTokens": 18712.327637727998,
             "stonkBurnedTokens": 629547.4208805357
           },
           {
             "date": "2026-10-09",
-            "revenueUsd": 179603.3467402617,
+            "revenueUsd": 179603.34674026168,
             "platformPairExcludedUsd": 7726.411417302446,
-            "stonkQuoteRevenueUsd": 7195.090558370847,
+            "stonkQuoteRevenueUsd": 7195.090558370846,
             "feeBurnUsd": 36.11292599074915,
-            "feeIncomeUsd": 187365.8710835549,
-            "buybackUsd": 107830.08241085491,
+            "feeIncomeUsd": 187365.87108355487,
+            "buybackUsd": 107830.08241085484,
             "buybackCount": 3288,
-            "boughtTokens": 739522.2420329428,
-            "burnUsd": 107268.30217673433,
-            "burnTokens": 739522.2420329428,
+            "boughtTokens": 739522.2420329431,
+            "burnUsd": 107268.30217673435,
+            "burnTokens": 739522.2420329431,
             "quoteRevenueBurnUsd": 4344.470468824989,
-            "quoteRevenueBurnTokens": 29675.028814988,
-            "stonkBurnedTokens": 769197.2708479309
+            "quoteRevenueBurnTokens": 29675.028814988003,
+            "stonkBurnedTokens": 769197.270847931
           },
           {
             "date": "2026-10-08",
-            "revenueUsd": 293814.2844186972,
-            "platformPairExcludedUsd": 16552.085470654238,
-            "stonkQuoteRevenueUsd": 14687.365224663557,
+            "revenueUsd": 293814.28441869735,
+            "platformPairExcludedUsd": 16552.08547065424,
+            "stonkQuoteRevenueUsd": 14687.36522466356,
             "feeBurnUsd": 46.689910498920554,
-            "feeIncomeUsd": 310413.05979985034,
+            "feeIncomeUsd": 310413.0597998505,
             "buybackUsd": 176523.33452611614,
             "buybackCount": 2965,
-            "boughtTokens": 1120986.9198163915,
-            "burnUsd": 174760.1005155964,
+            "boughtTokens": 1120986.9198163918,
+            "burnUsd": 174760.10051559634,
             "burnTokens": 1120986.919816392,
-            "quoteRevenueBurnUsd": 8771.149137694993,
-            "quoteRevenueBurnTokens": 57173.25333424601,
-            "stonkBurnedTokens": 1178160.1731506377
+            "quoteRevenueBurnUsd": 8771.14913769499,
+            "quoteRevenueBurnTokens": 57173.253334245994,
+            "stonkBurnedTokens": 1178160.173150638
           },
           {
             "date": "2026-10-07",
-            "revenueUsd": 256261.1561235101,
-            "platformPairExcludedUsd": 10050.693791688134,
+            "revenueUsd": 256261.15612351033,
+            "platformPairExcludedUsd": 10050.693791688132,
             "stonkQuoteRevenueUsd": 9177.24322616036,
             "feeBurnUsd": 4.641215195739628,
-            "feeIncomeUsd": 266316.491130394,
+            "feeIncomeUsd": 266316.4911303942,
             "buybackUsd": 153269.0212287896,
             "buybackCount": 3636,
-            "boughtTokens": 810354.1770119901,
+            "boughtTokens": 810354.1770119903,
             "burnUsd": 151970.00299171073,
-            "burnTokens": 810354.17701199,
+            "burnTokens": 810354.1770119902,
             "quoteRevenueBurnUsd": 5594.6793862174345,
             "quoteRevenueBurnTokens": 30207.965791757997,
-            "stonkBurnedTokens": 840562.1428037481
+            "stonkBurnedTokens": 840562.1428037483
           },
           {
             "date": "2026-10-06",
-            "revenueUsd": 461540.08487727627,
+            "revenueUsd": 461540.08487727673,
             "platformPairExcludedUsd": 18504.9615275263,
-            "stonkQuoteRevenueUsd": 17685.95183310714,
+            "stonkQuoteRevenueUsd": 17685.951833107138,
             "feeBurnUsd": 24.77201886598032,
-            "feeIncomeUsd": 480069.81842366856,
+            "feeIncomeUsd": 480069.818423669,
             "buybackUsd": 277190.3699028519,
             "buybackCount": 4960,
-            "boughtTokens": 1373369.9396622032,
+            "boughtTokens": 1373369.9396622034,
             "burnUsd": 275546.51209174853,
             "burnTokens": 1373369.9396622041,
-            "quoteRevenueBurnUsd": 10523.161092343486,
+            "quoteRevenueBurnUsd": 10523.161092343482,
             "quoteRevenueBurnTokens": 52742.98403547899,
             "stonkBurnedTokens": 1426112.923697683
           },
           {
             "date": "2026-10-05",
-            "revenueUsd": 456429.25862578704,
+            "revenueUsd": 456429.2586257873,
             "platformPairExcludedUsd": 8983.038450280135,
             "stonkQuoteRevenueUsd": 8527.503020001439,
             "feeBurnUsd": 16.406092022389082,
-            "feeIncomeUsd": 465428.70316808956,
-            "buybackUsd": 274231.7724279259,
+            "feeIncomeUsd": 465428.7031680898,
+            "buybackUsd": 274231.77242792584,
             "buybackCount": 5385,
             "boughtTokens": 1369591.0757203053,
-            "burnUsd": 273201.6460503998,
+            "burnUsd": 273201.64605039975,
             "burnTokens": 1369591.075720306,
             "quoteRevenueBurnUsd": 5115.654260994896,
-            "quoteRevenueBurnTokens": 25299.640618248995,
-            "stonkBurnedTokens": 1394890.7163385553
+            "quoteRevenueBurnTokens": 25299.64061824899,
+            "stonkBurnedTokens": 1394890.7163385549
           },
           {
             "date": "2026-10-04",
-            "revenueUsd": 590268.3639079487,
+            "revenueUsd": 590268.3639079495,
             "platformPairExcludedUsd": 17369.960014469354,
             "stonkQuoteRevenueUsd": 16422.37491140586,
             "feeBurnUsd": 55.26226674626533,
-            "feeIncomeUsd": 607693.5861891643,
-            "buybackUsd": 353601.3863127668,
+            "feeIncomeUsd": 607693.5861891651,
+            "buybackUsd": 353601.3863127666,
             "buybackCount": 5287,
-            "boughtTokens": 1742216.1393489668,
-            "burnUsd": 352117.19277608866,
-            "burnTokens": 1742216.1393489682,
+            "boughtTokens": 1742216.1393489665,
+            "burnUsd": 352117.1927760887,
+            "burnTokens": 1742216.1393489689,
             "quoteRevenueBurnUsd": 9861.009148715882,
             "quoteRevenueBurnTokens": 47742.33894631399,
-            "stonkBurnedTokens": 1789958.478295282
+            "stonkBurnedTokens": 1789958.4782952825
           },
           {
             "date": "2026-10-03",
-            "revenueUsd": 365714.25608075014,
-            "platformPairExcludedUsd": 30862.48550181919,
-            "stonkQuoteRevenueUsd": 30428.818736320172,
+            "revenueUsd": 365714.2560807502,
+            "platformPairExcludedUsd": 30862.485501819192,
+            "stonkQuoteRevenueUsd": 30428.81873632018,
             "feeBurnUsd": 0.3143279296466456,
-            "feeIncomeUsd": 396577.05591049895,
-            "buybackUsd": 219316.29044209362,
+            "feeIncomeUsd": 396577.055910499,
+            "buybackUsd": 219316.29044209368,
             "buybackCount": 6053,
             "boughtTokens": 951710.9216188262,
-            "burnUsd": 218295.05402137496,
-            "burnTokens": 951710.9216188262,
-            "quoteRevenueBurnUsd": 18308.613764459267,
-            "quoteRevenueBurnTokens": 79504.93805514899,
-            "stonkBurnedTokens": 1031215.8596739753
+            "burnUsd": 218295.05402137493,
+            "burnTokens": 951710.921618826,
+            "quoteRevenueBurnUsd": 18308.613764459275,
+            "quoteRevenueBurnTokens": 79504.93805514897,
+            "stonkBurnedTokens": 1031215.859673975
           },
           {
             "date": "2026-10-02",
-            "revenueUsd": 694664.3452360772,
-            "platformPairExcludedUsd": 30034.023798647464,
-            "stonkQuoteRevenueUsd": 29557.868340519737,
+            "revenueUsd": 694664.3452360785,
+            "platformPairExcludedUsd": 30034.023798647475,
+            "stonkQuoteRevenueUsd": 29557.868340519744,
             "feeBurnUsd": 54.82916498573312,
-            "feeIncomeUsd": 724753.1981997103,
-            "buybackUsd": 417358.9373313381,
+            "feeIncomeUsd": 724753.1981997116,
+            "buybackUsd": 417358.937331338,
             "buybackCount": 6114,
-            "boughtTokens": 1729779.0728815245,
+            "boughtTokens": 1729779.0728815228,
             "burnUsd": 414663.1633954821,
-            "burnTokens": 1729779.0728815221,
-            "quoteRevenueBurnUsd": 17707.288145113496,
-            "quoteRevenueBurnTokens": 73136.101009379,
-            "stonkBurnedTokens": 1802915.173890901
+            "burnTokens": 1729779.072881522,
+            "quoteRevenueBurnUsd": 17707.2881451135,
+            "quoteRevenueBurnTokens": 73136.10100937901,
+            "stonkBurnedTokens": 1802915.1738909008
           },
           {
             "date": "2026-10-01",
-            "revenueUsd": 893225.9450488297,
-            "platformPairExcludedUsd": 40186.25663929046,
-            "stonkQuoteRevenueUsd": 39402.18652462783,
+            "revenueUsd": 893225.9450488291,
+            "platformPairExcludedUsd": 40186.25663929048,
+            "stonkQuoteRevenueUsd": 39402.18652462785,
             "feeBurnUsd": 195.20127003823922,
-            "feeIncomeUsd": 933607.4029581584,
-            "buybackUsd": 535244.2978268863,
+            "feeIncomeUsd": 933607.4029581578,
+            "buybackUsd": 535244.2978268861,
             "buybackCount": 5447,
-            "boughtTokens": 2202009.504338531,
-            "burnUsd": 532585.6116206,
+            "boughtTokens": 2202009.50433853,
+            "burnUsd": 532585.6116206001,
             "burnTokens": 2202009.50433853,
             "quoteRevenueBurnUsd": 23812.60023292591,
-            "quoteRevenueBurnTokens": 98334.24366656199,
+            "quoteRevenueBurnTokens": 98334.243666562,
             "stonkBurnedTokens": 2300343.748005092
           },
           {
             "date": "2026-09-30",
-            "revenueUsd": 980100.9100272552,
-            "platformPairExcludedUsd": 64238.41194757459,
-            "stonkQuoteRevenueUsd": 63374.62880536153,
+            "revenueUsd": 980100.9100272536,
+            "platformPairExcludedUsd": 64238.41194757457,
+            "stonkQuoteRevenueUsd": 63374.62880536152,
             "feeBurnUsd": 42.617091291225876,
-            "feeIncomeUsd": 1044381.939066121,
+            "feeIncomeUsd": 1044381.9390661194,
             "buybackUsd": 587211.0490203726,
             "buybackCount": 6800,
-            "boughtTokens": 2161242.5812310013,
+            "boughtTokens": 2161242.5812310018,
             "burnUsd": 583924.645449127,
             "burnTokens": 2161242.5812310027,
-            "quoteRevenueBurnUsd": 37886.97776243597,
-            "quoteRevenueBurnTokens": 135628.14785499798,
+            "quoteRevenueBurnUsd": 37886.97776243598,
+            "quoteRevenueBurnTokens": 135628.147854998,
             "stonkBurnedTokens": 2296870.7290860005
           },
           {
             "date": "2026-09-29",
-            "revenueUsd": 1163258.1134927834,
-            "platformPairExcludedUsd": 38667.81273427324,
-            "stonkQuoteRevenueUsd": 37507.22438435224,
+            "revenueUsd": 1163258.1134927822,
+            "platformPairExcludedUsd": 38667.81273427325,
+            "stonkQuoteRevenueUsd": 37507.224384352245,
             "feeBurnUsd": 179.70977391126576,
-            "feeIncomeUsd": 1202105.6360009678,
-            "buybackUsd": 703179.1086068891,
+            "feeIncomeUsd": 1202105.6360009667,
+            "buybackUsd": 703179.1086068894,
             "buybackCount": 6331,
-            "boughtTokens": 2664853.8088547005,
-            "burnUsd": 694989.452034056,
-            "burnTokens": 2664853.8088547024,
-            "quoteRevenueBurnUsd": 22522.945192187417,
+            "boughtTokens": 2664853.8088547,
+            "burnUsd": 694989.4520340561,
+            "burnTokens": 2664853.808854703,
+            "quoteRevenueBurnUsd": 22522.945192187424,
             "quoteRevenueBurnTokens": 85397.896742866,
-            "stonkBurnedTokens": 2750251.7055975692
+            "stonkBurnedTokens": 2750251.705597568
           },
           {
             "date": "2026-09-28",
-            "revenueUsd": 619406.3609935421,
-            "platformPairExcludedUsd": 22335.51442996271,
+            "revenueUsd": 619406.3609935422,
+            "platformPairExcludedUsd": 22335.514429962714,
             "stonkQuoteRevenueUsd": 21424.440871856492,
             "feeBurnUsd": 52.472878941639614,
-            "feeIncomeUsd": 641794.3483024465,
-            "buybackUsd": 372628.8486973472,
+            "feeIncomeUsd": 641794.3483024467,
+            "buybackUsd": 372628.84869734733,
             "buybackCount": 7379,
-            "boughtTokens": 1483531.6865684993,
-            "burnUsd": 370239.37678836385,
+            "boughtTokens": 1483531.686568499,
+            "burnUsd": 370239.3767883639,
             "burnTokens": 1483531.6865685,
-            "quoteRevenueBurnUsd": 12839.940635268726,
-            "quoteRevenueBurnTokens": 51604.631085162,
+            "quoteRevenueBurnUsd": 12839.940635268727,
+            "quoteRevenueBurnTokens": 51604.63108516199,
             "stonkBurnedTokens": 1535136.317653662
           },
           {
             "date": "2026-09-27",
             "revenueUsd": 526393.1542173228,
-            "platformPairExcludedUsd": 21945.722363891808,
+            "platformPairExcludedUsd": 21945.722363891815,
             "stonkQuoteRevenueUsd": 21151.38380925148,
             "feeBurnUsd": 9.095364128273062,
             "feeIncomeUsd": 548347.9719453428,
-            "buybackUsd": 316238.61901639204,
+            "buybackUsd": 316238.6190163923,
             "buybackCount": 8714,
-            "boughtTokens": 1143229.4868279805,
-            "burnUsd": 315217.2432336395,
+            "boughtTokens": 1143229.4868279812,
+            "burnUsd": 315217.2432336396,
             "burnTokens": 1143229.4868279812,
             "quoteRevenueBurnUsd": 12684.066562811011,
-            "quoteRevenueBurnTokens": 45569.719811819,
+            "quoteRevenueBurnTokens": 45569.71981181899,
             "stonkBurnedTokens": 1188799.2066398002
           },
           {
             "date": "2026-09-26",
-            "revenueUsd": 630301.2986235832,
+            "revenueUsd": 630301.2986235827,
             "platformPairExcludedUsd": 42850.02291605195,
-            "stonkQuoteRevenueUsd": 41599.3959638355,
-            "feeBurnUsd": 48.24835644518101,
-            "feeIncomeUsd": 673199.5698960803,
-            "buybackUsd": 376494.7357566395,
+            "stonkQuoteRevenueUsd": 41599.39596383549,
+            "feeBurnUsd": 48.24835644518102,
+            "feeIncomeUsd": 673199.5698960798,
+            "buybackUsd": 376494.73575663957,
             "buybackCount": 8086,
-            "boughtTokens": 1335528.7250263956,
+            "boughtTokens": 1335528.725026396,
             "burnUsd": 374595.3663159539,
-            "burnTokens": 1335528.7250263952,
+            "burnTokens": 1335528.725026395,
             "quoteRevenueBurnUsd": 24955.84325871423,
-            "quoteRevenueBurnTokens": 88754.46420868301,
-            "stonkBurnedTokens": 1424283.1892350784
+            "quoteRevenueBurnTokens": 88754.464208683,
+            "stonkBurnedTokens": 1424283.1892350782
           },
           {
             "date": "2026-09-25",
-            "revenueUsd": 965962.4066531576,
+            "revenueUsd": 965962.4066531569,
             "platformPairExcludedUsd": 49963.823109943085,
             "stonkQuoteRevenueUsd": 49531.66496405304,
             "feeBurnUsd": 77.37268008322232,
-            "feeIncomeUsd": 1016003.6024431839,
-            "buybackUsd": 580634.4870484386,
+            "feeIncomeUsd": 1016003.6024431832,
+            "buybackUsd": 580634.4870484391,
             "buybackCount": 8679,
-            "boughtTokens": 1803059.1294275448,
-            "burnUsd": 576818.1133818787,
-            "burnTokens": 1803059.1294275466,
-            "quoteRevenueBurnUsd": 29776.41648514064,
-            "quoteRevenueBurnTokens": 92775.22755688998,
-            "stonkBurnedTokens": 1895834.356984436
+            "boughtTokens": 1803059.129427545,
+            "burnUsd": 576818.1133818786,
+            "burnTokens": 1803059.129427546,
+            "quoteRevenueBurnUsd": 29776.41648514063,
+            "quoteRevenueBurnTokens": 92775.22755689,
+            "stonkBurnedTokens": 1895834.3569844356
           },
           {
             "date": "2026-09-24",
-            "revenueUsd": 1095923.7375604159,
-            "platformPairExcludedUsd": 109856.43136832074,
-            "stonkQuoteRevenueUsd": 108911.90751446818,
+            "revenueUsd": 1095923.7375604166,
+            "platformPairExcludedUsd": 109856.43136832071,
+            "stonkQuoteRevenueUsd": 108911.90751446817,
             "feeBurnUsd": 126.79776181509035,
-            "feeIncomeUsd": 1205906.9666905517,
-            "buybackUsd": 672720.5218643745,
+            "feeIncomeUsd": 1205906.9666905524,
+            "buybackUsd": 672720.5218643749,
             "buybackCount": 9191,
             "boughtTokens": 1861906.0650136597,
-            "burnUsd": 667564.2511214402,
-            "burnTokens": 1861906.0650136601,
-            "quoteRevenueBurnUsd": 66182.32515911148,
-            "quoteRevenueBurnTokens": 184133.81314605003,
+            "burnUsd": 667564.2511214401,
+            "burnTokens": 1861906.0650136597,
+            "quoteRevenueBurnUsd": 66182.32515911147,
+            "quoteRevenueBurnTokens": 184133.81314605,
             "stonkBurnedTokens": 2046039.8781597102
           },
           {
             "date": "2026-09-23",
-            "revenueUsd": 1509466.7138747873,
-            "platformPairExcludedUsd": 60693.83711334327,
-            "stonkQuoteRevenueUsd": 59646.601451507,
+            "revenueUsd": 1509466.7138747892,
+            "platformPairExcludedUsd": 60693.83711334326,
+            "stonkQuoteRevenueUsd": 59646.60145150701,
             "feeBurnUsd": 303.1806042886533,
-            "feeIncomeUsd": 1570463.731592419,
+            "feeIncomeUsd": 1570463.731592421,
             "buybackUsd": 1130911.902643317,
             "buybackCount": 4142,
-            "boughtTokens": 3551903.314214407,
-            "burnUsd": 1117407.2572478096,
-            "burnTokens": 3551903.31421441,
+            "boughtTokens": 3551903.3142144093,
+            "burnUsd": 1117407.2572478098,
+            "burnTokens": 3551903.3142144093,
             "quoteRevenueBurnUsd": 36090.487894393445,
             "quoteRevenueBurnTokens": 114152.797278994,
             "stonkBurnedTokens": 3666056.111493404
           },
           {
             "date": "2026-09-22",
-            "revenueUsd": 1532433.420396598,
-            "platformPairExcludedUsd": 164225.58816576347,
-            "stonkQuoteRevenueUsd": 162247.7941912261,
-            "feeBurnUsd": 415.78212029778524,
-            "feeIncomeUsd": 1697074.7906826595,
-            "buybackUsd": 717397.2594511111,
+            "revenueUsd": 1532433.4203965978,
+            "platformPairExcludedUsd": 164225.58816576345,
+            "stonkQuoteRevenueUsd": 162247.79419122607,
+            "feeBurnUsd": 415.78212029778535,
+            "feeIncomeUsd": 1697074.7906826593,
+            "buybackUsd": 717397.2594511106,
             "buybackCount": 6282,
-            "boughtTokens": 2115637.7915909095,
-            "burnUsd": 710345.4654172505,
-            "burnTokens": 2115637.7915909095,
-            "quoteRevenueBurnUsd": 97162.2431012806,
+            "boughtTokens": 2115637.7915909085,
+            "burnUsd": 710345.4654172504,
+            "burnTokens": 2115637.791590909,
+            "quoteRevenueBurnUsd": 97162.24310128059,
             "quoteRevenueBurnTokens": 280084.363584593,
-            "stonkBurnedTokens": 2395722.1551755024
+            "stonkBurnedTokens": 2395722.1551755015
           },
           {
             "date": "2026-09-21",
-            "revenueUsd": 2113836.7041037874,
-            "platformPairExcludedUsd": 104814.07577404164,
-            "stonkQuoteRevenueUsd": 102491.59594293483,
+            "revenueUsd": 2113836.704103788,
+            "platformPairExcludedUsd": 104814.07577404163,
+            "stonkQuoteRevenueUsd": 102491.59594293484,
             "feeBurnUsd": 691.4638439487439,
-            "feeIncomeUsd": 2219342.2437217776,
-            "buybackUsd": 1227424.922640005,
+            "feeIncomeUsd": 2219342.243721778,
+            "buybackUsd": 1227424.9226400042,
             "buybackCount": 8554,
             "boughtTokens": 3304083.479006131,
             "burnUsd": 1220137.0677325688,
-            "burnTokens": 3304083.479006132,
-            "quoteRevenueBurnUsd": 60550.518980603476,
-            "quoteRevenueBurnTokens": 162168.37201907093,
-            "stonkBurnedTokens": 3466251.851025202
+            "burnTokens": 3304083.4790061302,
+            "quoteRevenueBurnUsd": 60550.518980603454,
+            "quoteRevenueBurnTokens": 162168.37201907096,
+            "stonkBurnedTokens": 3466251.851025201
           },
           {
             "date": "2026-09-20",
-            "revenueUsd": 1119344.7719102853,
+            "revenueUsd": 1119344.7719102856,
             "platformPairExcludedUsd": 43094.45034785328,
             "stonkQuoteRevenueUsd": 41326.73648323316,
             "feeBurnUsd": 290.8598743409512,
-            "feeIncomeUsd": 1162730.0821324796,
-            "buybackUsd": 671058.2962332421,
+            "feeIncomeUsd": 1162730.0821324799,
+            "buybackUsd": 671058.296233242,
             "buybackCount": 10937,
-            "boughtTokens": 2266124.6467870446,
+            "boughtTokens": 2266124.6467870455,
             "burnUsd": 668079.4639712779,
             "burnTokens": 2266124.6467870455,
-            "quoteRevenueBurnUsd": 24836.7751235206,
-            "quoteRevenueBurnTokens": 82884.915588393,
+            "quoteRevenueBurnUsd": 24836.775123520605,
+            "quoteRevenueBurnTokens": 82884.91558839302,
             "stonkBurnedTokens": 2349009.5623754384
           },
           {
             "date": "2026-09-19",
-            "revenueUsd": 1251411.592105092,
-            "platformPairExcludedUsd": 67461.09912145356,
-            "stonkQuoteRevenueUsd": 65469.69220556539,
+            "revenueUsd": 1251411.592105093,
+            "platformPairExcludedUsd": 67461.09912145358,
+            "stonkQuoteRevenueUsd": 65469.69220556541,
             "feeBurnUsd": 169.7153879842245,
-            "feeIncomeUsd": 1319042.4066145297,
+            "feeIncomeUsd": 1319042.4066145306,
             "buybackUsd": 749636.2178174453,
             "buybackCount": 10456,
             "boughtTokens": 2793283.0209416607,
-            "burnUsd": 744614.3693869861,
-            "burnTokens": 2793283.020941661,
-            "quoteRevenueBurnUsd": 39146.465998046384,
-            "quoteRevenueBurnTokens": 139706.22411694203,
-            "stonkBurnedTokens": 2932989.245058603
+            "burnUsd": 744614.369386986,
+            "burnTokens": 2793283.0209416607,
+            "quoteRevenueBurnUsd": 39146.46599804638,
+            "quoteRevenueBurnTokens": 139706.224116942,
+            "stonkBurnedTokens": 2932989.2450586027
           },
           {
             "date": "2026-09-18",
-            "revenueUsd": 1120578.9489319155,
-            "platformPairExcludedUsd": 40427.045610574365,
-            "stonkQuoteRevenueUsd": 38985.21408135888,
-            "feeBurnUsd": 162.56869502306782,
-            "feeIncomeUsd": 1161168.5632375127,
-            "buybackUsd": 672012.4008107655,
+            "revenueUsd": 1120578.9489319148,
+            "platformPairExcludedUsd": 40427.04561057435,
+            "stonkQuoteRevenueUsd": 38985.214081358856,
+            "feeBurnUsd": 162.56869502306785,
+            "feeIncomeUsd": 1161168.563237512,
+            "buybackUsd": 672012.4008107653,
             "buybackCount": 6662,
             "boughtTokens": 2598052.9575997987,
             "burnUsd": 667728.5918839113,
-            "burnTokens": 2598052.9575997987,
-            "quoteRevenueBurnUsd": 24060.886361210196,
-            "quoteRevenueBurnTokens": 92312.787675312,
+            "burnTokens": 2598052.957599799,
+            "quoteRevenueBurnUsd": 24060.8863612102,
+            "quoteRevenueBurnTokens": 92312.78767531199,
             "stonkBurnedTokens": 2690365.745275111
           },
           {
             "date": "2026-09-17",
-            "revenueUsd": 900646.1855801936,
-            "platformPairExcludedUsd": 52802.78835054486,
-            "stonkQuoteRevenueUsd": 51080.06969584921,
-            "feeBurnUsd": 470.50281782242047,
-            "feeIncomeUsd": 953919.4767485609,
-            "buybackUsd": 541460.3500319945,
+            "revenueUsd": 900646.1855801933,
+            "platformPairExcludedUsd": 52802.788350544884,
+            "stonkQuoteRevenueUsd": 51080.06969584923,
+            "feeBurnUsd": 470.5028178224204,
+            "feeIncomeUsd": 953919.4767485606,
+            "buybackUsd": 541460.350031994,
             "buybackCount": 2778,
-            "boughtTokens": 2389460.788759874,
-            "burnUsd": 536970.7663440241,
+            "boughtTokens": 2389460.788759876,
+            "burnUsd": 536970.766344024,
             "burnTokens": 2389460.788759875,
-            "quoteRevenueBurnUsd": 30087.229219788325,
-            "quoteRevenueBurnTokens": 135103.035337513,
+            "quoteRevenueBurnUsd": 30087.22921978833,
+            "quoteRevenueBurnTokens": 135103.03533751302,
             "stonkBurnedTokens": 2524563.8240973884
           },
           {
             "date": "2026-09-16",
-            "revenueUsd": 561373.0288964004,
-            "platformPairExcludedUsd": 43016.68323733525,
-            "stonkQuoteRevenueUsd": 40889.788285499686,
+            "revenueUsd": 561373.0288964007,
+            "platformPairExcludedUsd": 43016.68323733522,
+            "stonkQuoteRevenueUsd": 40889.78828549967,
             "feeBurnUsd": 534.949070862968,
-            "feeIncomeUsd": 604924.6612045986,
+            "feeIncomeUsd": 604924.6612045988,
             "buybackUsd": 335378.6671915575,
             "buybackCount": 3651,
-            "boughtTokens": 1921861.1777800089,
+            "boughtTokens": 1921861.1777800084,
             "burnUsd": 333578.44097072777,
-            "burnTokens": 1921861.177780008,
+            "burnTokens": 1921861.1777800082,
             "quoteRevenueBurnUsd": 24471.452396995915,
-            "quoteRevenueBurnTokens": 139942.34112589198,
+            "quoteRevenueBurnTokens": 139942.341125892,
             "stonkBurnedTokens": 2061803.5189059
           },
           {
             "date": "2026-09-15",
-            "revenueUsd": 599181.2757824209,
-            "platformPairExcludedUsd": 38931.74050391172,
-            "stonkQuoteRevenueUsd": 36777.85785587672,
-            "feeBurnUsd": 496.2093472274134,
-            "feeIncomeUsd": 638609.22563356,
-            "buybackUsd": 357847.51305992156,
+            "revenueUsd": 599181.2757824206,
+            "platformPairExcludedUsd": 38931.74050391174,
+            "stonkQuoteRevenueUsd": 36777.85785587673,
+            "feeBurnUsd": 496.20934722741356,
+            "feeIncomeUsd": 638609.2256335597,
+            "buybackUsd": 357847.5130599215,
             "buybackCount": 3925,
-            "boughtTokens": 1942801.4176315074,
-            "burnUsd": 355969.28847628174,
-            "burnTokens": 1942801.4176315079,
+            "boughtTokens": 1942801.4176315083,
+            "burnUsd": 355969.2884762817,
+            "burnTokens": 1942801.417631508,
             "quoteRevenueBurnUsd": 22184.37015159092,
-            "quoteRevenueBurnTokens": 121588.52616791203,
-            "stonkBurnedTokens": 2064389.9437994203
+            "quoteRevenueBurnTokens": 121588.52616791199,
+            "stonkBurnedTokens": 2064389.9437994198
           },
           {
             "date": "2026-09-14",
-            "revenueUsd": 870664.3581579424,
-            "platformPairExcludedUsd": 66534.4386170217,
-            "stonkQuoteRevenueUsd": 63352.483844583614,
+            "revenueUsd": 870664.3581579414,
+            "platformPairExcludedUsd": 66534.43861702172,
+            "stonkQuoteRevenueUsd": 63352.483844583636,
             "feeBurnUsd": 547.8883138796931,
-            "feeIncomeUsd": 937746.6850888438,
-            "buybackUsd": 517396.0412525632,
+            "feeIncomeUsd": 937746.6850888429,
+            "buybackUsd": 517396.04125256324,
             "buybackCount": 4496,
-            "boughtTokens": 2399220.280970399,
-            "burnUsd": 514416.625053467,
-            "burnTokens": 2399220.2809703983,
+            "boughtTokens": 2399220.2809703983,
+            "burnUsd": 514416.6250534669,
+            "burnTokens": 2399220.280970398,
             "quoteRevenueBurnUsd": 37862.20693568671,
-            "quoteRevenueBurnTokens": 175471.000309828,
+            "quoteRevenueBurnTokens": 175471.00030982797,
             "stonkBurnedTokens": 2574691.281280226
           },
           {
             "date": "2026-09-13",
-            "revenueUsd": 900903.6560629108,
-            "platformPairExcludedUsd": 86828.9400916613,
-            "stonkQuoteRevenueUsd": 83401.11099850916,
-            "feeBurnUsd": 1389.6397516394777,
-            "feeIncomeUsd": 989122.2359062115,
-            "buybackUsd": 538654.6373630058,
+            "revenueUsd": 900903.6560629104,
+            "platformPairExcludedUsd": 86828.94009166126,
+            "stonkQuoteRevenueUsd": 83401.11099850915,
+            "feeBurnUsd": 1389.639751639478,
+            "feeIncomeUsd": 989122.2359062112,
+            "buybackUsd": 538654.6373630057,
             "buybackCount": 4811,
-            "boughtTokens": 2045556.4545674752,
-            "burnUsd": 537127.9365963602,
-            "burnTokens": 2045556.4545674757,
+            "boughtTokens": 2045556.4545674748,
+            "burnUsd": 537127.9365963603,
+            "burnTokens": 2045556.4545674755,
             "quoteRevenueBurnUsd": 49876.76583110867,
-            "quoteRevenueBurnTokens": 189829.03633146698,
-            "stonkBurnedTokens": 2235385.490898942
+            "quoteRevenueBurnTokens": 189829.036331467,
+            "stonkBurnedTokens": 2235385.4908989426
           },
           {
             "date": "2026-09-12",
-            "revenueUsd": 1045810.1968834734,
-            "platformPairExcludedUsd": 126541.03452185646,
-            "stonkQuoteRevenueUsd": 123203.4466987776,
-            "feeBurnUsd": 974.6134089753175,
-            "feeIncomeUsd": 1173325.8448143052,
-            "buybackUsd": 653347.6032155652,
+            "revenueUsd": 1045810.1968834724,
+            "platformPairExcludedUsd": 126541.0345218564,
+            "stonkQuoteRevenueUsd": 123203.44669877752,
+            "feeBurnUsd": 974.6134089753174,
+            "feeIncomeUsd": 1173325.844814304,
+            "buybackUsd": 653347.603215565,
             "buybackCount": 3116,
-            "boughtTokens": 2218230.840562267,
-            "burnUsd": 620063.29726819,
+            "boughtTokens": 2218230.840562268,
+            "burnUsd": 620063.2972681898,
             "burnTokens": 2218230.8405622668,
             "quoteRevenueBurnUsd": 74813.56532984716,
             "quoteRevenueBurnTokens": 267915.822046715,
-            "stonkBurnedTokens": 2486146.6626089816
+            "stonkBurnedTokens": 2486146.6626089825
           },
           {
             "date": "2026-09-11",
-            "revenueUsd": 2205092.1350248232,
-            "platformPairExcludedUsd": 350506.7766697134,
-            "stonkQuoteRevenueUsd": 334324.48674148996,
+            "revenueUsd": 2205092.1350248246,
+            "platformPairExcludedUsd": 350506.7766697133,
+            "stonkQuoteRevenueUsd": 334324.4867414899,
             "feeBurnUsd": 1805.0823110611082,
-            "feeIncomeUsd": 2557403.9940055977,
-            "buybackUsd": 1269778.000321181,
+            "feeIncomeUsd": 2557403.994005599,
+            "buybackUsd": 1269778.0003211815,
             "buybackCount": 4028,
-            "boughtTokens": 4547062.452416964,
-            "burnUsd": 1259002.8721560603,
+            "boughtTokens": 4547062.452416968,
+            "burnUsd": 1259002.8721560605,
             "burnTokens": 4547062.452416967,
             "quoteRevenueBurnUsd": 200130.40651855746,
             "quoteRevenueBurnTokens": 720291.087532649,
@@ -3932,15 +3931,15 @@
           },
           {
             "date": "2026-09-10",
-            "revenueUsd": 867101.5246595895,
-            "platformPairExcludedUsd": 59102.543209978925,
-            "stonkQuoteRevenueUsd": 53322.17090184626,
+            "revenueUsd": 867101.5246595901,
+            "platformPairExcludedUsd": 59102.5432099789,
+            "stonkQuoteRevenueUsd": 53322.17090184623,
             "feeBurnUsd": 4809.528983584386,
-            "feeIncomeUsd": 931013.5968531528,
-            "buybackUsd": 525198.5011681931,
+            "feeIncomeUsd": 931013.5968531533,
+            "buybackUsd": 525198.5011681932,
             "buybackCount": 4999,
-            "boughtTokens": 2640084.4183043046,
-            "burnUsd": 522768.48671135097,
+            "boughtTokens": 2640084.418304304,
+            "burnUsd": 522768.4867113509,
             "burnTokens": 2640084.4183043046,
             "quoteRevenueBurnUsd": 32063.747880832037,
             "quoteRevenueBurnTokens": 159659.882690133,
@@ -3948,227 +3947,227 @@
           },
           {
             "date": "2026-09-09",
-            "revenueUsd": 1355591.1077829895,
-            "platformPairExcludedUsd": 127149.29690002257,
+            "revenueUsd": 1355591.1077829935,
+            "platformPairExcludedUsd": 127149.29690002259,
             "stonkQuoteRevenueUsd": 116681.348225225,
-            "feeBurnUsd": 908.4753167978866,
-            "feeIncomeUsd": 1483648.87999981,
-            "buybackUsd": 814042.9992660012,
+            "feeBurnUsd": 908.4753167978865,
+            "feeIncomeUsd": 1483648.8799998139,
+            "buybackUsd": 814042.9992660016,
             "buybackCount": 6192,
-            "boughtTokens": 4186694.867570824,
-            "burnUsd": 808429.6664604275,
-            "burnTokens": 4186694.867570825,
-            "quoteRevenueBurnUsd": 70261.39220508283,
-            "quoteRevenueBurnTokens": 359058.5887511171,
-            "stonkBurnedTokens": 4545753.456321941
+            "boughtTokens": 4186694.867570826,
+            "burnUsd": 808429.6664604272,
+            "burnTokens": 4186694.8675708235,
+            "quoteRevenueBurnUsd": 70261.39220508284,
+            "quoteRevenueBurnTokens": 359058.588751117,
+            "stonkBurnedTokens": 4545753.456321942
           },
           {
             "date": "2026-09-08",
-            "revenueUsd": 1341249.3647007276,
-            "platformPairExcludedUsd": 81439.56110694085,
-            "stonkQuoteRevenueUsd": 75582.74399017349,
-            "feeBurnUsd": 2124.7300833063596,
-            "feeIncomeUsd": 1424813.6558909747,
-            "buybackUsd": 783380.385637989,
+            "revenueUsd": 1341249.3647007272,
+            "platformPairExcludedUsd": 81439.56110694082,
+            "stonkQuoteRevenueUsd": 75582.74399017348,
+            "feeBurnUsd": 2124.730083306359,
+            "feeIncomeUsd": 1424813.6558909742,
+            "buybackUsd": 783380.3856379888,
             "buybackCount": 6291,
-            "boughtTokens": 4711663.71754752,
-            "burnUsd": 776681.6058808233,
+            "boughtTokens": 4711663.717547521,
+            "burnUsd": 776681.6058808232,
             "burnTokens": 4711663.717547519,
             "quoteRevenueBurnUsd": 44940.31093448153,
             "quoteRevenueBurnTokens": 265902.420363932,
-            "stonkBurnedTokens": 4977566.137911451
+            "stonkBurnedTokens": 4977566.13791145
           },
           {
             "date": "2026-09-07",
-            "revenueUsd": 1198986.5950265392,
-            "platformPairExcludedUsd": 33629.31308603254,
-            "stonkQuoteRevenueUsd": 26939.699968892517,
+            "revenueUsd": 1198986.59502654,
+            "platformPairExcludedUsd": 33629.31308603255,
+            "stonkQuoteRevenueUsd": 26939.69996889252,
             "feeBurnUsd": 3057.217074350445,
-            "feeIncomeUsd": 1235673.1251869223,
-            "buybackUsd": 719516.4534626643,
+            "feeIncomeUsd": 1235673.1251869232,
+            "buybackUsd": 719516.4534626646,
             "buybackCount": 6902,
-            "boughtTokens": 5464333.751326283,
-            "burnUsd": 714050.7965422062,
-            "burnTokens": 5464333.751326283,
+            "boughtTokens": 5464333.75132628,
+            "burnUsd": 714050.7965422063,
+            "burnTokens": 5464333.7513262825,
             "quoteRevenueBurnUsd": 27671.7163007591,
             "quoteRevenueBurnTokens": 205622.11749760297,
-            "stonkBurnedTokens": 5669955.868823886
+            "stonkBurnedTokens": 5669955.868823888
           },
           {
             "date": "2026-09-06",
-            "revenueUsd": 1508194.5494740882,
-            "platformPairExcludedUsd": 58965.72697078155,
-            "stonkQuoteRevenueUsd": 36264.55177629474,
+            "revenueUsd": 1508194.5494740878,
+            "platformPairExcludedUsd": 58965.72697078156,
+            "stonkQuoteRevenueUsd": 36264.551776294735,
             "feeBurnUsd": 10463.6097467695,
-            "feeIncomeUsd": 1577623.8861916394,
-            "buybackUsd": 904502.7482378248,
+            "feeIncomeUsd": 1577623.886191639,
+            "buybackUsd": 904502.748237825,
             "buybackCount": 5083,
-            "boughtTokens": 6719789.912157066,
-            "burnUsd": 894491.2947027343,
+            "boughtTokens": 6719789.912157068,
+            "burnUsd": 894491.2947027341,
             "burnTokens": 6719789.912157067,
             "quoteRevenueBurnUsd": 10339.716977388389,
             "quoteRevenueBurnTokens": 77804.173764311,
-            "stonkBurnedTokens": 6797594.085921379
+            "stonkBurnedTokens": 6797594.085921377
           },
           {
             "date": "2026-09-05",
-            "revenueUsd": 186107.63435034308,
-            "platformPairExcludedUsd": 7940.925006701916,
-            "stonkQuoteRevenueUsd": 3520.1986490160234,
-            "feeBurnUsd": 800.3472370835467,
-            "feeIncomeUsd": 194848.90659412852,
-            "buybackUsd": 110863.87317045385,
+            "revenueUsd": 186107.63435034288,
+            "platformPairExcludedUsd": 7940.925006701914,
+            "stonkQuoteRevenueUsd": 3520.198649016025,
+            "feeBurnUsd": 800.3472370835468,
+            "feeIncomeUsd": 194848.90659412832,
+            "buybackUsd": 110863.87317045381,
             "buybackCount": 2181,
-            "boughtTokens": 3108699.157270024,
-            "burnUsd": 110191.8004747316,
-            "burnTokens": 3108699.1572700213,
+            "boughtTokens": 3108699.1572700227,
+            "burnUsd": 110191.80047473157,
+            "burnTokens": 3108699.157270021,
             "quoteRevenueBurnUsd": 2116.880379063754,
-            "quoteRevenueBurnTokens": 56002.256119806014,
+            "quoteRevenueBurnTokens": 56002.25611980601,
             "stonkBurnedTokens": 3164701.413389827
           },
           {
             "date": "2026-09-04",
-            "revenueUsd": 78869.12495296853,
-            "platformPairExcludedUsd": 1919.737575656202,
+            "revenueUsd": 78869.12495296854,
+            "platformPairExcludedUsd": 1919.7375756562014,
             "stonkQuoteRevenueUsd": 468.9408618354296,
             "feeBurnUsd": 26.213776595765207,
-            "feeIncomeUsd": 80815.07630522049,
-            "buybackUsd": 46358.59719919974,
+            "feeIncomeUsd": 80815.0763052205,
+            "buybackUsd": 46358.59719919973,
             "buybackCount": 1049,
-            "boughtTokens": 2138451.1977055334,
-            "burnUsd": 46082.98319714329,
+            "boughtTokens": 2138451.197705534,
+            "burnUsd": 46082.98319714328,
             "burnTokens": 2139593.3973296173,
-            "quoteRevenueBurnUsd": 255.90116375701209,
+            "quoteRevenueBurnUsd": 255.90116375701206,
             "quoteRevenueBurnTokens": 11443.861843798,
             "stonkBurnedTokens": 2151037.2591734147
           },
           {
             "date": "2026-09-03",
-            "revenueUsd": 64050.00379900652,
+            "revenueUsd": 64050.00379900649,
             "platformPairExcludedUsd": 2516.2949727812693,
-            "stonkQuoteRevenueUsd": 291.7157003079488,
+            "stonkQuoteRevenueUsd": 291.71570030794874,
             "feeBurnUsd": 38.29765099941239,
-            "feeIncomeUsd": 66604.5964227872,
-            "buybackUsd": 38019.552839123266,
+            "feeIncomeUsd": 66604.59642278717,
+            "buybackUsd": 38019.55283912328,
             "buybackCount": 863,
-            "boughtTokens": 1574767.2184435672,
+            "boughtTokens": 1574767.2184435674,
             "burnUsd": 37679.697345142384,
             "burnTokens": 1574767.2184435683,
-            "quoteRevenueBurnUsd": 174.79039284520664,
+            "quoteRevenueBurnUsd": 174.79039284520667,
             "quoteRevenueBurnTokens": 7368.674356721,
-            "stonkBurnedTokens": 1582135.892800289
+            "stonkBurnedTokens": 1582135.8928002892
           },
           {
             "date": "2026-09-02",
-            "revenueUsd": 38857.95498308743,
+            "revenueUsd": 38857.95498308737,
             "platformPairExcludedUsd": 3163.798408710819,
             "stonkQuoteRevenueUsd": 628.7090394546744,
             "feeBurnUsd": 22.88436356104455,
-            "feeIncomeUsd": 42044.6377553593,
-            "buybackUsd": 23019.25169155444,
+            "feeIncomeUsd": 42044.63775535924,
+            "buybackUsd": 23019.251691554444,
             "buybackCount": 891,
-            "boughtTokens": 1135014.2554587,
-            "burnUsd": 22805.28082852938,
+            "boughtTokens": 1135014.2554586998,
+            "burnUsd": 22805.280828529383,
             "burnTokens": 1138069.1683400911,
-            "quoteRevenueBurnUsd": 377.1242234698444,
+            "quoteRevenueBurnUsd": 377.12422346984437,
             "quoteRevenueBurnTokens": 19163.460545171998,
             "stonkBurnedTokens": 1157232.628885263
           },
           {
             "date": "2026-09-01",
-            "revenueUsd": 131343.1026816003,
-            "platformPairExcludedUsd": 4779.908744879214,
+            "revenueUsd": 131343.10268160046,
+            "platformPairExcludedUsd": 4779.908744879215,
             "stonkQuoteRevenueUsd": 599.7102069583102,
-            "feeBurnUsd": 236.24827669995022,
-            "feeIncomeUsd": 136359.25970317947,
-            "buybackUsd": 76853.61533082939,
+            "feeBurnUsd": 236.2482766999502,
+            "feeIncomeUsd": 136359.25970317962,
+            "buybackUsd": 76853.6153308294,
             "buybackCount": 1345,
-            "boughtTokens": 3050783.0978742,
-            "burnUsd": 74738.54632155644,
+            "boughtTokens": 3050783.0978742004,
+            "burnUsd": 74738.54632155642,
             "burnTokens": 3077992.815148184,
-            "quoteRevenueBurnUsd": 366.69488769828945,
-            "quoteRevenueBurnTokens": 17037.655989593,
+            "quoteRevenueBurnUsd": 366.69488769828934,
+            "quoteRevenueBurnTokens": 17037.655989593004,
             "stonkBurnedTokens": 3095030.471137777
           },
           {
             "date": "2026-08-31",
-            "revenueUsd": 56668.192184321415,
-            "platformPairExcludedUsd": 1919.3310565765028,
-            "stonkQuoteRevenueUsd": 746.322772902161,
+            "revenueUsd": 56668.19218432142,
+            "platformPairExcludedUsd": 1919.3310565765025,
+            "stonkQuoteRevenueUsd": 746.3227729021608,
             "feeBurnUsd": 22.993617691913094,
-            "feeIncomeUsd": 58610.516858589835,
+            "feeIncomeUsd": 58610.51685858984,
             "buybackUsd": 34013.31545856767,
             "buybackCount": 839,
             "boughtTokens": 1729277.8640074434,
             "burnUsd": 33871.346810046045,
-            "burnTokens": 1733501.3609969274,
+            "burnTokens": 1733501.3609969271,
             "quoteRevenueBurnUsd": 435.61435512251376,
             "quoteRevenueBurnTokens": 21822.428914781995,
-            "stonkBurnedTokens": 1755323.7899117097
+            "stonkBurnedTokens": 1755323.789911709
           },
           {
             "date": "2026-08-30",
-            "revenueUsd": 28898.555927600508,
-            "platformPairExcludedUsd": 4195.728804523415,
-            "stonkQuoteRevenueUsd": 1748.7169640702011,
-            "feeBurnUsd": 166.9320968106804,
-            "feeIncomeUsd": 33261.21682893461,
+            "revenueUsd": 28898.555927600464,
+            "platformPairExcludedUsd": 4195.728804523416,
+            "stonkQuoteRevenueUsd": 1748.7169640702014,
+            "feeBurnUsd": 166.93209681068043,
+            "feeIncomeUsd": 33261.216828934565,
             "buybackUsd": 17401.451964129126,
             "buybackCount": 808,
-            "boughtTokens": 716425.3698641781,
-            "burnUsd": 17723.949759187388,
-            "burnTokens": 733471.7476338038,
+            "boughtTokens": 716425.3698641782,
+            "burnUsd": 17723.949759187395,
+            "burnTokens": 733471.7476338041,
             "quoteRevenueBurnUsd": 1044.5078757169745,
             "quoteRevenueBurnTokens": 41793.338828602,
-            "stonkBurnedTokens": 775265.086462406
+            "stonkBurnedTokens": 775265.0864624061
           },
           {
             "date": "2026-08-29",
             "revenueUsd": 42308.81633395135,
             "platformPairExcludedUsd": 2803.0015210649817,
-            "stonkQuoteRevenueUsd": 846.8681706256351,
+            "stonkQuoteRevenueUsd": 846.868170625635,
             "feeBurnUsd": 1213.563083427685,
             "feeIncomeUsd": 46325.38093844401,
-            "buybackUsd": 24965.805088468933,
+            "buybackUsd": 24965.80508846893,
             "buybackCount": 742,
             "boughtTokens": 1474654.8458472984,
-            "burnUsd": 25439.59789210517,
-            "burnTokens": 1506885.5790933573,
+            "burnUsd": 25439.597892105176,
+            "burnTokens": 1506885.579093357,
             "quoteRevenueBurnUsd": 509.13706988444505,
             "quoteRevenueBurnTokens": 29015.474633022997,
-            "stonkBurnedTokens": 1535901.0537263802
+            "stonkBurnedTokens": 1535901.05372638
           },
           {
             "date": "2026-08-28",
-            "revenueUsd": 21477.448130704295,
+            "revenueUsd": 21477.448130704284,
             "platformPairExcludedUsd": 1477.6891977421474,
-            "stonkQuoteRevenueUsd": 945.711744933592,
+            "stonkQuoteRevenueUsd": 945.7117449335922,
             "feeBurnUsd": 1116.5001838725002,
-            "feeIncomeUsd": 24071.637512318943,
-            "buybackUsd": 12982.321607003101,
+            "feeIncomeUsd": 24071.637512318932,
+            "buybackUsd": 12982.3216070031,
             "buybackCount": 718,
-            "boughtTokens": 891485.685625202,
-            "burnUsd": 12698.54909383629,
-            "burnTokens": 881579.8669672858,
-            "quoteRevenueBurnUsd": 603.8765284405575,
+            "boughtTokens": 891485.6856252018,
+            "burnUsd": 12698.549093836285,
+            "burnTokens": 881579.866967286,
+            "quoteRevenueBurnUsd": 603.8765284405574,
             "quoteRevenueBurnTokens": 41766.593427178,
-            "stonkBurnedTokens": 923346.4603944637
+            "stonkBurnedTokens": 923346.4603944641
           },
           {
             "date": "2026-08-27",
-            "revenueUsd": 55685.83558941559,
+            "revenueUsd": 55685.835589415554,
             "platformPairExcludedUsd": 0,
             "stonkQuoteRevenueUsd": 0,
             "feeBurnUsd": 1081.3124223872012,
-            "feeIncomeUsd": 56767.14801180279,
-            "buybackUsd": 31567.01807708701,
+            "feeIncomeUsd": 56767.148011802754,
+            "buybackUsd": 31567.018077087043,
             "buybackCount": 947,
-            "boughtTokens": 1931798.3672082815,
-            "burnUsd": 31326.51722549497,
-            "burnTokens": 1931466.6971069176,
-            "quoteRevenueBurnUsd": 860.9751448363976,
-            "quoteRevenueBurnTokens": 53130.850841193,
-            "stonkBurnedTokens": 1984597.5479481108
+            "boughtTokens": 1931798.3672082825,
+            "burnUsd": 31326.517225494976,
+            "burnTokens": 1931466.697106918,
+            "quoteRevenueBurnUsd": 860.9751448363978,
+            "quoteRevenueBurnTokens": 53130.850841192994,
+            "stonkBurnedTokens": 1984597.5479481115
           },
           {
             "date": "2026-08-26",
@@ -4177,23 +4176,23 @@
             "stonkQuoteRevenueUsd": 0,
             "feeBurnUsd": 1392.8038915527504,
             "feeIncomeUsd": 86252.43822296613,
-            "buybackUsd": 51218.6524160313,
+            "buybackUsd": 51218.65241603127,
             "buybackCount": 1069,
-            "boughtTokens": 4062949.753842352,
-            "burnUsd": 50470.25693197795,
-            "burnTokens": 4102144.702985385,
+            "boughtTokens": 4062949.7538423487,
+            "burnUsd": 50470.25693197793,
+            "burnTokens": 4102144.7029853864,
             "quoteRevenueBurnUsd": 441.5184457086072,
-            "quoteRevenueBurnTokens": 38293.88958785999,
-            "stonkBurnedTokens": 4140438.592573245
+            "quoteRevenueBurnTokens": 38293.88958786,
+            "stonkBurnedTokens": 4140438.592573246
           },
           {
             "date": "2026-08-25",
-            "revenueUsd": 26527.43297262621,
+            "revenueUsd": 26527.432972626226,
             "platformPairExcludedUsd": 0,
             "stonkQuoteRevenueUsd": 0,
             "feeBurnUsd": 154.12098511777708,
-            "feeIncomeUsd": 26681.55395774399,
-            "buybackUsd": 15586.555727285973,
+            "feeIncomeUsd": 26681.553957744003,
+            "buybackUsd": 15586.55572728597,
             "buybackCount": 731,
             "boughtTokens": 1737541.5719915098,
             "burnUsd": 15534.392133136633,
@@ -4209,25 +4208,25 @@
             "stonkQuoteRevenueUsd": 0,
             "feeBurnUsd": 16.484043768294683,
             "feeIncomeUsd": 22742.33505581064,
-            "buybackUsd": 13359.491151142352,
+            "buybackUsd": 13359.491151142349,
             "buybackCount": 776,
             "boughtTokens": 1306143.81563693,
-            "burnUsd": 13295.219105833286,
-            "burnTokens": 1307749.7673419465,
+            "burnUsd": 13295.219105833285,
+            "burnTokens": 1307749.7673419467,
             "quoteRevenueBurnUsd": 330.74375846754845,
-            "quoteRevenueBurnTokens": 34619.21307251998,
-            "stonkBurnedTokens": 1342368.9804144665
+            "quoteRevenueBurnTokens": 34619.21307251999,
+            "stonkBurnedTokens": 1342368.980414467
           },
           {
             "date": "2026-08-23",
-            "revenueUsd": 31266.353369228375,
+            "revenueUsd": 31266.353369228415,
             "platformPairExcludedUsd": 0,
             "stonkQuoteRevenueUsd": 0,
             "feeBurnUsd": 350.3765335594098,
-            "feeIncomeUsd": 31616.729902787785,
-            "buybackUsd": 18243.022014967497,
+            "feeIncomeUsd": 31616.729902787825,
+            "buybackUsd": 18243.022014967508,
             "buybackCount": 1114,
-            "boughtTokens": 1824960.7929483973,
+            "boughtTokens": 1824960.7929483948,
             "burnUsd": 18380.429371352417,
             "burnTokens": 1848089.08645946,
             "quoteRevenueBurnUsd": 489.135831367896,
@@ -4236,46 +4235,46 @@
           },
           {
             "date": "2026-08-22",
-            "revenueUsd": 42993.724780483506,
+            "revenueUsd": 42993.72478048349,
             "platformPairExcludedUsd": 0,
             "stonkQuoteRevenueUsd": 0,
             "feeBurnUsd": 110.37913233483086,
-            "feeIncomeUsd": 43104.10391281834,
+            "feeIncomeUsd": 43104.103912818326,
             "buybackUsd": 25517.5153167378,
             "buybackCount": 1028,
-            "boughtTokens": 3402042.8815442934,
-            "burnUsd": 25520.07836973544,
+            "boughtTokens": 3402042.8815442957,
+            "burnUsd": 25520.07836973545,
             "burnTokens": 3417653.4272767403,
-            "quoteRevenueBurnUsd": 274.1129804367247,
-            "quoteRevenueBurnTokens": 36167.49740254199,
+            "quoteRevenueBurnUsd": 274.11298043672457,
+            "quoteRevenueBurnTokens": 36167.497402541994,
             "stonkBurnedTokens": 3453820.924679283
           },
           {
             "date": "2026-08-21",
-            "revenueUsd": 18846.762912203914,
+            "revenueUsd": 18846.7629122039,
             "platformPairExcludedUsd": 0,
             "stonkQuoteRevenueUsd": 0,
             "feeBurnUsd": 35.66682565357131,
-            "feeIncomeUsd": 18882.429737857485,
-            "buybackUsd": 10680.202640741149,
+            "feeIncomeUsd": 18882.42973785747,
+            "buybackUsd": 10680.202640741154,
             "buybackCount": 720,
-            "boughtTokens": 1486398.489769035,
-            "burnUsd": 10803.890776488042,
-            "burnTokens": 1507429.7240989988,
-            "quoteRevenueBurnUsd": 732.3716393771031,
-            "quoteRevenueBurnTokens": 98696.31367403797,
-            "stonkBurnedTokens": 1606126.037773037
+            "boughtTokens": 1486398.4897690348,
+            "burnUsd": 10803.89077648804,
+            "burnTokens": 1507429.7240989986,
+            "quoteRevenueBurnUsd": 732.3716393771032,
+            "quoteRevenueBurnTokens": 98696.313674038,
+            "stonkBurnedTokens": 1606126.0377730366
           },
           {
             "date": "2026-08-20",
-            "revenueUsd": 34939.72697002664,
+            "revenueUsd": 34939.72697002667,
             "platformPairExcludedUsd": 0,
             "stonkQuoteRevenueUsd": 0,
             "feeBurnUsd": 10.166561580793573,
-            "feeIncomeUsd": 34949.893531607435,
-            "buybackUsd": 20546.27955176488,
+            "feeIncomeUsd": 34949.893531607464,
+            "buybackUsd": 20546.279551764885,
             "buybackCount": 549,
-            "boughtTokens": 3736347.5093792994,
+            "boughtTokens": 3736347.509379298,
             "burnUsd": 20427.828252653493,
             "burnTokens": 3746749.0344455256,
             "quoteRevenueBurnUsd": 371.8590005296747,
@@ -4288,27 +4287,27 @@
           "order": "desc",
           "nextCursor": "eyJrIjoiZGFpbHkiLCJvIjoiZGVzYyIsInYiOnsiZGF5IjoiMjAyNi0wOC0yMCJ9fQ"
         },
-        "generatedAt": "2026-11-27T16:16:18.666Z"
+        "generatedAt": "2026-11-27T16:39:49.649Z"
       }
     },
     "holders": {
       "status": "ok",
-      "fetchedAt": "2026-11-27T16:16:18+00:00",
+      "fetchedAt": "2026-11-27T16:39:49+00:00",
       "sourceAsOf": null,
       "url": "https://api.rugcheck.xyz/v1/tokens/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx/report",
       "data": {
-        "supply": 769122701.7846531,
-        "totalHolders": 334852,
+        "supply": 769119783.2138271,
+        "totalHolders": 334858,
         "rows": [
           {
             "owner": "Beqv6dzTcjV2eodo8RRXCiCcnSYrS1vkQKhfqwHXqeit",
             "accounts": [
               "FwF5ddHTvMKBiWHVNjPjwGaxU55c96HeQ7TuQ9BnThXV"
             ],
-            "tokens": 44053165.88585152,
+            "tokens": 44090213.60676856,
             "isPool": false,
             "label": null,
-            "share": 5.727716238726494
+            "share": 5.732554872341752
           },
           {
             "owner": "u6PJ8DtQuPFnfmwHbGFULQ4u4EgjDiyYKjVEsynXq2w",
@@ -4318,7 +4317,7 @@
             "tokens": 30562347.188264057,
             "isPool": false,
             "label": null,
-            "share": 3.9736633852242234
+            "share": 3.97367846404326
           },
           {
             "owner": "4j9kCRiUzPJ954qh8MQV4idnJB2HQ4daaNn4R6SrTBpL",
@@ -4328,7 +4327,7 @@
             "tokens": 20705293.291174594,
             "isPool": false,
             "label": null,
-            "share": 2.692066330005674
+            "share": 2.692076545561721
           },
           {
             "owner": "CLNEVwuSAiGsvPtE74yLhda4beNfd8qfZXVKkUcAJZDL",
@@ -4338,17 +4337,17 @@
             "tokens": 18096916.7823597,
             "isPool": false,
             "label": null,
-            "share": 2.3529297393469295
+            "share": 2.35293866798489
           },
           {
             "owner": "zxTpi4BtaWX3mgdAPoezkMD1hxx8CdeCfrqXMWvSCLX",
             "accounts": [
               "3AeDHaaCjxXZ6mZRkPooXjstZG5AFMtNQF7Ld4P6MH9a"
             ],
-            "tokens": 16320521.14944211,
+            "tokens": 16229894.349229036,
             "isPool": true,
             "label": "Meteora DLMM Pool",
-            "share": 2.121965859488009
+            "share": 2.110190727562767
           },
           {
             "owner": "F5hkYsi8JxjyA2JHN5CA7MbnnhWubkXB2ZQB7Gkaxqs6",
@@ -4358,17 +4357,17 @@
             "tokens": 14500896.918704772,
             "isPool": false,
             "label": null,
-            "share": 1.8853814723004865
+            "share": 1.885388626737911
           },
           {
             "owner": "AfrddTGYwCVEQB1gxCAhR8i48o6qtxYqksdVkeLudEhg",
             "accounts": [
               "EERy3mN8BosukCZPQvMNfLvfh7VRtm62Xje7QNWccYJn"
             ],
-            "tokens": 11084079.396309579,
+            "tokens": 11087090.103731642,
             "isPool": true,
             "label": "Orca AMM",
-            "share": 1.441132782921419
+            "share": 1.4415297000167346
           },
           {
             "owner": "7FDFjmRS6qtwbFHDhmPYNzJhuEdP9Rpfeeu3sKULEmsk",
@@ -4378,7 +4377,7 @@
             "tokens": 10212678.084867608,
             "isPool": false,
             "label": null,
-            "share": 1.327834695448511
+            "share": 1.3278397341689916
           },
           {
             "owner": "4UrFSCrGxgoCtCUBAEZq7ZmPK3Pczkxx7PwYnkBMi1KR",
@@ -4388,7 +4387,7 @@
             "tokens": 9799199.005091002,
             "isPool": false,
             "label": null,
-            "share": 1.2740748624833445
+            "share": 1.2740796972019472
           },
           {
             "owner": "4Hw4QR35CHmfU99MRTZPUwU6h1zzToaw5yBW2pu6BP5x",
@@ -4398,7 +4397,7 @@
             "tokens": 9319005.99630534,
             "isPool": false,
             "label": null,
-            "share": 1.2116410001527391
+            "share": 1.2116455979542153
           },
           {
             "owner": "5B9YG9eutctcKc2AQ3MmC3kUHqAizVpsXttXJDfxhg8t",
@@ -4408,7 +4407,7 @@
             "tokens": 9016166.242462512,
             "isPool": false,
             "label": null,
-            "share": 1.1722663004929677
+            "share": 1.1722707488796813
           },
           {
             "owner": "3cBB2ZyoNy8YEquSSzR2Rpggp9vcrfz4NcbCKHp7BzvT",
@@ -4418,7 +4417,7 @@
             "tokens": 8832286.965619689,
             "isPool": false,
             "label": null,
-            "share": 1.1483586357710507
+            "share": 1.1483629934355981
           },
           {
             "owner": "2pH2nqXnpX1t5hph5eKJ9cxbwxuY8XhoDEU6qrbQ7QWi",
@@ -4428,7 +4427,7 @@
             "tokens": 8479246.347044632,
             "isPool": false,
             "label": null,
-            "share": 1.1024569067288743
+            "share": 1.1024610902106091
           },
           {
             "owner": "7a8xxAJBELDo6P9dikSYctdw6ce8F4mWr3ahcAD8Ao49",
@@ -4438,7 +4437,7 @@
             "tokens": 8091196.927055932,
             "isPool": false,
             "label": null,
-            "share": 1.0520033940333995
+            "share": 1.0520073860597152
           },
           {
             "owner": "Bmi9zf27MNN5pjCtyv2Y15TDQoYgcbcmPTxvEoQ6UwWs",
@@ -4448,7 +4447,7 @@
             "tokens": 7914200.575675527,
             "isPool": false,
             "label": null,
-            "share": 1.0289906353448695
+            "share": 1.0289945400449096
           },
           {
             "owner": "EiGkkAwcwP7xLMeptcHH79C5JL1eNgrLR3jn9cXkmjR9",
@@ -4458,7 +4457,7 @@
             "tokens": 7789940.08055078,
             "isPool": false,
             "label": null,
-            "share": 1.012834501240855
+            "share": 1.0128383446333815
           },
           {
             "owner": "3sFmaNV2HrJn3TwMioN1S5EP6o68WkyYigpBD1PaYDNt",
@@ -4468,7 +4467,7 @@
             "tokens": 7458455.216718341,
             "isPool": false,
             "label": null,
-            "share": 0.9697354140518708
+            "share": 0.9697390938967404
           },
           {
             "owner": "EC2f5DnHzuNRit1ExqghSifDbp1wgrzktsRRZCtU92MJ",
@@ -4478,7 +4477,7 @@
             "tokens": 7240721.81409679,
             "isPool": false,
             "label": null,
-            "share": 0.9414260946004585
+            "share": 0.9414296670202484
           },
           {
             "owner": "9wgzGsq7cLEp2iTZATwrRumnszhF2LX92t2pf3dRtWV2",
@@ -4488,7 +4487,7 @@
             "tokens": 7025405.6028449,
             "isPool": false,
             "label": null,
-            "share": 0.913431054179434
+            "share": 0.9134345203667359
           },
           {
             "owner": "CMQgBRmmWBRitNDCCpj8ZTTwYMnhyRk5gTBfAHqW5Q9",
@@ -4498,13 +4497,13 @@
             "tokens": 5850392.710021928,
             "isPool": false,
             "label": null,
-            "share": 0.7606579153686172
+            "share": 0.7606608018292813
           }
         ],
         "sampleAccountCount": 20,
-        "topTenNonPoolShare": 22.76593265995242,
-        "samplePoolShare": 3.563098642409428,
-        "sampleNonPoolShare": 30.547468575500798,
+        "topTenNonPoolShare": 22.770835948309966,
+        "samplePoolShare": 3.551720427579502,
+        "sampleNonPoolShare": 30.55240139237159,
         "mintAuthority": null,
         "freezeAuthority": null,
         "metadataMutable": false
@@ -4512,7 +4511,7 @@
     },
     "priceHistory": {
       "status": "ok",
-      "fetchedAt": "2026-11-27T16:16:19+00:00",
+      "fetchedAt": "2026-11-27T16:39:50+00:00",
       "sourceAsOf": null,
       "url": "https://api.geckoterminal.com/api/v2/networks/solana/pools/zxTpi4BtaWX3mgdAPoezkMD1hxx8CdeCfrqXMWvSCLX/ohlcv/day?aggregate=1&limit=100&currency=usd&token=base",
       "data": {
@@ -5235,8 +5234,8 @@
             0.031466134503697625,
             0.03474916306741708,
             0.030995348725637584,
-            0.033371535315697955,
-            518850.02019823436
+            0.03352590158564407,
+            523314.96452071995
           ]
         ]
       }
